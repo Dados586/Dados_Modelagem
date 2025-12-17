@@ -1,0 +1,1077 @@
+{
+  "type": "FeatureCollection",
+  "name": "PGVS Oeste",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "ID": 7047,
+        "TIPO": "NULL",
+        "sigla_municipio": "PLU",
+        "key_qgis": "PLU_7047",
+        "latitude": -27.850524599563276,
+        "longitude": -55.01962353894535,
+        "layer_name": "plu_isovalves_pgv_WGS84",
+        "stroke": "#c30118",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c30118",
+        "fill-opacity": 0.3,
+        "marker-color": "#c30118",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.01962353894535,
+          -27.850524599563276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "D": 50.0,
+        "ID": 7048,
+        "L": 10.02,
+        "ZONA": "CEN-02",
+        "sigla_municipio": "PLU",
+        "key_qgis": "PLU_7048",
+        "latitude": -27.850730554172852,
+        "longitude": -55.01799538892592,
+        "layer_name": "plu_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -55.017944686999186,
+              -27.850733879999922
+            ],
+            [
+              -55.01804609085266,
+              -27.850727228345768
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "VALD": 50.0,
+        "ID": 6978,
+        "LABEL": "VRP-01",
+        "FROM_P": 35.5,
+        "TO_P": 13.0,
+        "sigla_municipio": "PLU",
+        "key_qgis": "PLU_6978",
+        "latitude": -27.855220971697833,
+        "longitude": -55.02028345979915,
+        "layer_name": "plu_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.02028345979915,
+          -27.855220971697833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "VALD": 152.4,
+        "ID": 6988,
+        "LABEL": "VRP-02",
+        "FROM_P": 40.4,
+        "TO_P": 13.0,
+        "sigla_municipio": "PLU",
+        "key_qgis": "PLU_6988",
+        "latitude": -27.84996338155485,
+        "longitude": -55.02043548912079,
+        "layer_name": "plu_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.020435489120786,
+          -27.84996338155485
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "ID": 21385,
+        "TIPO": "Registro",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_21385",
+        "latitude": -27.444177227331846,
+        "longitude": -53.93866631343642,
+        "layer_name": "tpa_isovalves_pgv_WGS84",
+        "stroke": "#c30118",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c30118",
+        "fill-opacity": 0.3,
+        "marker-color": "#c30118",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.93866631343643,
+          -27.444177227331846
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "ID": 31572,
+        "TIPO": "Registro",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31572",
+        "latitude": -27.43680210183129,
+        "longitude": -53.96682285067736,
+        "layer_name": "tpa_isovalves_pgv_WGS84",
+        "stroke": "#c30118",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c30118",
+        "fill-opacity": 0.3,
+        "marker-color": "#c30118",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96682285067736,
+          -27.43680210183129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "ID": 31608,
+        "TIPO": "Registro",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31608",
+        "latitude": -27.444487772857652,
+        "longitude": -53.947194554512926,
+        "layer_name": "tpa_isovalves_pgv_WGS84",
+        "stroke": "#c30118",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c30118",
+        "fill-opacity": 0.3,
+        "marker-color": "#c30118",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.947194554512926,
+          -27.444487772857652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "D": 50.0,
+        "ID": 30309,
+        "L": 7.74,
+        "START_NID": 30307,
+        "START_NODE": "VRP 01",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30309",
+        "latitude": -27.446804978367044,
+        "longitude": -53.93274643217858,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.93277421087872,
+              -27.446822861313812
+            ],
+            [
+              -53.93273644319158,
+              -27.44680855075131
+            ],
+            [
+              -53.932734811012125,
+              -27.446775342999494
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "D": 50.0,
+        "ID": 30631,
+        "L": 4.13,
+        "START_NID": 30629,
+        "START_NODE": "VRP 03",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30631",
+        "latitude": -27.446106838100974,
+        "longitude": -53.94124513421351,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.94124947628962,
+              -27.446123968951035
+            ],
+            [
+              -53.94124139298466,
+              -27.446107915208582
+            ],
+            [
+              -53.94124833201243,
+              -27.446089292999474
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "D": 75.0,
+        "ID": 31566,
+        "L": 3.39,
+        "START_NID": 31553,
+        "START_NODE": "VRP 05",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31566",
+        "latitude": -27.43541449973266,
+        "longitude": -53.965075637270324,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.96506354445911,
+              -27.435405848349234
+            ],
+            [
+              -53.96507344919191,
+              -27.43541796380896
+            ],
+            [
+              -53.96509068301314,
+              -27.435415705999464
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "D": 50.0,
+        "ID": 31606,
+        "L": 2.44,
+        "START_NID": 31604,
+        "START_NODE": "VRP 10",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31606",
+        "latitude": -27.445123638751333,
+        "longitude": -53.94988582760661,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.9498768334163,
+              -27.445118334070777
+            ],
+            [
+              -53.94988659761535,
+              -27.445120660636093
+            ],
+            [
+              -53.94989133201263,
+              -27.445132935999457
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "D": 50.0,
+        "ID": 31631,
+        "L": 1.94,
+        "START_NID": 31629,
+        "START_NODE": "VRP 07",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31631",
+        "latitude": -27.44279387148659,
+        "longitude": -53.94961711433542,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.949620583188846,
+              -27.4427866982794
+            ],
+            [
+              -53.949617970806685,
+              -27.442797014158593
+            ],
+            [
+              -53.94961029101264,
+              -27.442796288999464
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "D": 75.0,
+        "ID": 31638,
+        "L": 9.26,
+        "START_NID": 31636,
+        "START_NODE": "VRP 08",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31638",
+        "latitude": -27.44737112601115,
+        "longitude": -53.94570731305154,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.945720260325594,
+              -27.44740678124247
+            ],
+            [
+              -53.94569463341889,
+              -27.447367796062583
+            ],
+            [
+              -53.94571968001255,
+              -27.4473366919995
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "D": 50.0,
+        "ID": 31716,
+        "L": 8.83,
+        "START_NID": 31714,
+        "START_NODE": "VRP 09",
+        "ZONA": "NULL",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31716",
+        "latitude": -27.4427941101788,
+        "longitude": -53.95366052036953,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.95363234955777,
+              -27.44277278925887
+            ],
+            [
+              -53.95367173287423,
+              -27.442787606861188
+            ],
+            [
+              -53.95366649001275,
+              -27.4428288049995
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "D": 50.0,
+        "ID": 21582,
+        "L": 3.73,
+        "START_NID": 21580,
+        "START_NODE": "VRP 04",
+        "ZONA": "ERV-01",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_21582",
+        "latitude": -27.458000015437044,
+        "longitude": -53.94018803205495,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.940170867678155,
+              -27.457996170585343
+            ],
+            [
+              -53.940188668649995,
+              -27.45799706318487
+            ],
+            [
+              -53.94020299001235,
+              -27.458009380999492
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "D": 50.0,
+        "ID": 31685,
+        "L": 8.25,
+        "START_NID": 197,
+        "START_NODE": "J-111",
+        "ZONA": "ILM-03",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31685",
+        "latitude": -27.447302478267055,
+        "longitude": -53.94572174155929,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.94571968001255,
+              -27.4473366919995
+            ],
+            [
+              -53.9457314221152,
+              -27.44730568373035
+            ],
+            [
+              -53.94570621655516,
+              -27.447270568998896
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 10,
+        "D": 50.0,
+        "ID": 31686,
+        "L": 38.76,
+        "START_NID": 31684,
+        "START_NODE": "TCV-34",
+        "ZONA": "ILM-03",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31686",
+        "latitude": -27.44712160427851,
+        "longitude": -53.945602660128166,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.94570621655516,
+              -27.447270568998896
+            ],
+            [
+              -53.94552233251533,
+              -27.447000984649517
+            ],
+            [
+              -53.94548421926389,
+              -27.446999675553137
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11,
+        "D": 75.0,
+        "ID": 30633,
+        "L": 211.95,
+        "START_NID": 736,
+        "START_NODE": "J-464",
+        "ZONA": "OPE-01",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30633",
+        "latitude": -27.446128690857158,
+        "longitude": -53.931955053398575,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.932734811012125,
+              -27.446775342999494
+            ],
+            [
+              -53.93271153525735,
+              -27.446711531432193
+            ],
+            [
+              -53.93120004258279,
+              -27.44554411783502
+            ],
+            [
+              -53.93113302601209,
+              -27.445532903999492
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12,
+        "D": 50.0,
+        "ID": 31563,
+        "L": 3.9,
+        "START_NID": 31561,
+        "START_NODE": "VRP 06",
+        "ZONA": "PDG-02",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31563",
+        "latitude": -27.432602344044273,
+        "longitude": -53.96681939742847,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.96681025027,
+              -27.432588415361376
+            ],
+            [
+              -53.966824348075704,
+              -27.432603025387664
+            ],
+            [
+              -53.96681975258206,
+              -27.432618411791015
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 13,
+        "D": 50.0,
+        "ID": 30367,
+        "L": 8.08,
+        "START_NID": 30361,
+        "START_NODE": "J-1541",
+        "ZONA": "WEB-01",
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30367",
+        "latitude": -27.44421638900609,
+        "longitude": -53.93862699408664,
+        "layer_name": "tpa_redes_pgv_WGS84",
+        "stroke": "#01ddff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#01ddff",
+        "fill-opacity": 0.3,
+        "marker-color": "#01ddff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -53.93865838332084,
+              -27.44421093398909
+            ],
+            [
+              -53.938621490004714,
+              -27.444228506205153
+            ],
+            [
+              -53.93860348458914,
+              -27.444196804447113
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "VALD": 50.0,
+        "ID": 31684,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31684",
+        "latitude": -27.447270568998896,
+        "longitude": -53.94570621655516,
+        "layer_name": "tpa_tcvs_pgv_WGS84",
+        "stroke": "#c30118",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c30118",
+        "fill-opacity": 0.3,
+        "marker-color": "#c30118",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.94570621655516,
+          -27.447270568998896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "VALD": 152.4,
+        "ID": 30307,
+        "LABEL": "VRP 01",
+        "FROM_P": 31.0,
+        "TO_P": 11.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30307",
+        "latitude": -27.446822861313812,
+        "longitude": -53.93277421087872,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.93277421087872,
+          -27.446822861313812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "VALD": 152.4,
+        "ID": 30629,
+        "LABEL": "VRP 03",
+        "FROM_P": 22.0,
+        "TO_P": 15.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_30629",
+        "latitude": -27.446123968951035,
+        "longitude": -53.94124947628962,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.94124947628962,
+          -27.446123968951035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "VALD": 152.4,
+        "ID": 21580,
+        "LABEL": "VRP 04",
+        "FROM_P": 24.0,
+        "TO_P": 13.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_21580",
+        "latitude": -27.457996170585346,
+        "longitude": -53.940170867678155,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.940170867678155,
+          -27.457996170585343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "VALD": 75.0,
+        "ID": 31553,
+        "LABEL": "VRP 05",
+        "FROM_P": 32.0,
+        "TO_P": 10.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31553",
+        "latitude": -27.435405848349234,
+        "longitude": -53.96506354445911,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96506354445911,
+          -27.435405848349234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "VALD": 152.4,
+        "ID": 31561,
+        "LABEL": "VRP 06",
+        "FROM_P": 29.0,
+        "TO_P": 14.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31561",
+        "latitude": -27.432588415361376,
+        "longitude": -53.96681025027001,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96681025027,
+          -27.432588415361376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "VALD": 152.4,
+        "ID": 31629,
+        "LABEL": "VRP 07",
+        "FROM_P": 17.0,
+        "TO_P": 10.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31629",
+        "latitude": -27.4427866982794,
+        "longitude": -53.94962058318885,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.949620583188846,
+          -27.4427866982794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "VALD": 75.0,
+        "ID": 31636,
+        "LABEL": "VRP 08",
+        "FROM_P": 26.0,
+        "TO_P": 11.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31636",
+        "latitude": -27.44740678124247,
+        "longitude": -53.945720260325594,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.945720260325594,
+          -27.44740678124247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "VALD": 152.4,
+        "ID": 31714,
+        "LABEL": "VRP 09",
+        "FROM_P": 19.0,
+        "TO_P": 12.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31714",
+        "latitude": -27.442772789258868,
+        "longitude": -53.95363234955777,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.95363234955777,
+          -27.44277278925887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "VALD": 152.4,
+        "ID": 31604,
+        "LABEL": "VRP 10",
+        "FROM_P": 37.0,
+        "TO_P": 10.0,
+        "sigla_municipio": "TPA",
+        "key_qgis": "TPA_31604",
+        "latitude": -27.445118334070777,
+        "longitude": -53.94987683341629,
+        "layer_name": "tpa_vrps_pgv_WGS84",
+        "stroke": "#0011ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#0011ff",
+        "fill-opacity": 0.3,
+        "marker-color": "#0011ff",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -53.9498768334163,
+          -27.445118334070777
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
