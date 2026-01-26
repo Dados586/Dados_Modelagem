@@ -11,14 +11,14 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "TPA_30307",
-        "obra": "TPA_OPE-01",
+        "key_qgis": "ALG_644756",
+        "obra": "ALG_PRA-01-01",
         "bypass": null
       },
       "geometry": {
         "coordinates": [
-          -53.93277421087872,
-          -27.446822861313812
+          -55.81630456161017,
+          -29.803117698710093
         ],
         "type": "Point"
       }
@@ -26,14 +26,14 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "TPA_30629",
-        "obra": "TPA_WEB-01",
+        "key_qgis": "ALG_644790",
+        "obra": "ALG_VGR-01",
         "bypass": null
       },
       "geometry": {
         "coordinates": [
-          -53.94124947628962,
-          -27.446123968951035
+          -55.811613638775576,
+          -29.791896926315694
         ],
         "type": "Point"
       }
@@ -41,14 +41,14 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "TPA_21580",
-        "obra": "TPA_ERV-01",
+        "key_qgis": "ALG_644813",
+        "obra": "ALG_COH-01",
         "bypass": null
       },
       "geometry": {
         "coordinates": [
-          -53.940170867678155,
-          -27.457996170585343
+          -55.77235240988883,
+          -29.800734155161248
         ],
         "type": "Point"
       }
@@ -56,89 +56,14 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "TPA_31553",
-        "obra": "TPA_PDG-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -53.96506354445911,
-          -27.435405848349234
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "TPA_31561",
-        "obra": "TPA_PDG-02",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -53.96681025027,
-          -27.432588415361376
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "TPA_31636",
+        "key_qgis": "TPA_31684",
         "obra": "TPA_ILM-03",
         "bypass": null
       },
       "geometry": {
         "coordinates": [
-          -53.945720260325594,
-          -27.44740678124247
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "TPA_31714",
-        "obra": "TPA_LOT-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -53.95363234955777,
-          -27.44277278925887
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "TPA_31604",
-        "obra": "TPA_ILM-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -53.9498768334163,
-          -27.445118334070777
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "TPA_31679",
-        "obra": "TPA_PDG-03",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -53.949682178775184,
-          -27.431533835534218
+          -53.94570905550481,
+          -27.447269226627206
         ],
         "type": "Point"
       }
@@ -698,51 +623,6 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "ALG_3380",
-        "obra": "ALG_VGR-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.81165036127446,
-          -29.79189706644527
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "ALG_6903",
-        "obra": "ALG_PRA-01-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.81735901612397,
-          -29.796686503993687
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "ALG_277581",
-        "obra": "ALG_PRA-01-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.813266818351465,
-          -29.800624356616833
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "key_qgis": "ALG_644415",
         "obra": "ALG_PRA-01-01",
         "bypass": null
@@ -788,14 +668,179 @@
     {
       "type": "Feature",
       "properties": {
-        "key_qgis": "TPA_31684",
+        "key_qgis": "ALG_3380",
+        "obra": "ALG_VGR-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -55.81165036127446,
+          -29.79189706644527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "ALG_6903",
+        "obra": "ALG_PRA-01-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -55.81735901612397,
+          -29.796686503993687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "ALG_277581",
+        "obra": "ALG_PRA-01-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -55.813266818351465,
+          -29.800624356616833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_30307",
+        "obra": "TPA_OPE-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.93277421087872,
+          -27.446822861313812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_30629",
+        "obra": "TPA_WEB-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.94124947628962,
+          -27.446123968951035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_21580",
+        "obra": "TPA_ERV-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.940170867678155,
+          -27.457996170585343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31553",
+        "obra": "TPA_PDG-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96506354445911,
+          -27.435405848349234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31561",
+        "obra": "TPA_PDG-02",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.96681025027,
+          -27.432588415361376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31636",
         "obra": "TPA_ILM-03",
         "bypass": null
       },
       "geometry": {
         "coordinates": [
-          -53.94570905550481,
-          -27.447269226627206
+          -53.945720260325594,
+          -27.44740678124247
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31714",
+        "obra": "TPA_LOT-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.95363234955777,
+          -27.44277278925887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31604",
+        "obra": "TPA_ILM-01",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.9498768334163,
+          -27.445118334070777
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key_qgis": "TPA_31679",
+        "obra": "TPA_PDG-03",
+        "bypass": null
+      },
+      "geometry": {
+        "coordinates": [
+          -53.949682178775184,
+          -27.431533835534218
         ],
         "type": "Point"
       }
@@ -841,51 +886,6 @@
         "coordinates": [
           -53.947194554512926,
           -27.444487772857652
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "ALG_644756",
-        "obra": "ALG_PRA-01-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.81630456161017,
-          -29.803117698710093
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "ALG_644790",
-        "obra": "ALG_VGR-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.811613638775576,
-          -29.791896926315694
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key_qgis": "ALG_644813",
-        "obra": "ALG_COH-01",
-        "bypass": null
-      },
-      "geometry": {
-        "coordinates": [
-          -55.77235240988883,
-          -29.800734155161248
         ],
         "type": "Point"
       }
