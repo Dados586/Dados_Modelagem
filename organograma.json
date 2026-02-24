@@ -1,5 +1,5 @@
 {
-  "title": "Organograma (a partir do ORGANOGRAMA.xlsx)",
+  "title": "Organograma",
   "regional": {
     "role": "Gerente Operações",
     "name": "Alexandre Kunkel da Costa"
@@ -16,16 +16,16 @@
             {
               "city": "Alegrete",
               "op_owner": "Alaerti Alfonso",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9214-0424",
               "svc_owner": "Valerio Moreira dos Santos",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9637-3607"
             },
             {
               "city": "Manoel Viana",
               "op_owner": "Alaerti Alfonso",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9214-0424",
               "svc_owner": "Valerio Moreira dos Santos",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9637-3607"
             },
             {
               "city": "Quaraí",
@@ -43,28 +43,28 @@
             {
               "city": "Cacequi",
               "op_owner": "Lorena Aparecida Nunes",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "53 9107-3168",
               "svc_owner": "Humberto Aguilar Alende",
               "svc_contact": "xxxxxxxx"
             },
             {
               "city": "Dom pedrito",
               "op_owner": "Andressa Miranda",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "53 9964-2797",
               "svc_owner": "Andressa Miranda",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "53 9964-2797"
             },
             {
               "city": "Rosário do sul",
               "op_owner": "Lorena Aparecida Nunes",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "53 9107-3168",
               "svc_owner": "Humberto Aguilar Alende",
               "svc_contact": "xxxxxxxx"
             },
             {
               "city": "São vicente do sul",
               "op_owner": "Lorena Aparecida Nunes",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "53 9107-3168",
               "svc_owner": "Humberto Aguilar Alende",
               "svc_contact": "xxxxxxxx"
             }
@@ -84,23 +84,23 @@
             {
               "city": "Caibaté",
               "op_owner": "Gustavo Kreuz",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9226-2507",
               "svc_owner": "Alex Ely",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9677-0966"
             },
             {
               "city": "Jaguari",
               "op_owner": "Diogo Parise Benvegnu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9932-0280",
               "svc_owner": "Diogo Parise Benvegnu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9932-0280"
             },
             {
               "city": "Nova esperança do sul",
               "op_owner": "Diogo Parise Benvegnu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9932-0280",
               "svc_owner": "Diogo Parise Benvegnu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9932-0280"
             },
             {
               "city": "Santiago",
@@ -112,37 +112,37 @@
             {
               "city": "Santo Antônio das Missões",
               "op_owner": "Gustavo Kreuz",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9226-2507",
               "svc_owner": "Alex Ely",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9677-0966"
             },
             {
               "city": "São Francisco de Assis",
               "op_owner": "Diogo Parise Benvegnu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9932-0280",
               "svc_owner": "Diogo Parise Benvegnu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9932-0280"
             },
             {
               "city": "São Luiz Gonzaga",
               "op_owner": "Gustavo Kreuz",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9226-2507",
               "svc_owner": "Alex Ely",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9677-0966"
             },
             {
               "city": "São Miguel das Missões",
               "op_owner": "Gustavo Kreuz",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9226-2507",
               "svc_owner": "Alex Ely",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9677-0966"
             },
             {
               "city": "São Nicolau",
               "op_owner": "Gustavo Kreuz",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9226-2507",
               "svc_owner": "Alex Ely",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9677-0966"
             },
             {
               "city": "Unistalda",
@@ -160,30 +160,30 @@
             {
               "city": "Barra do Quaraí",
               "op_owner": "Ítalo Ponciano",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "64 9283-0395",
               "svc_owner": "José Mario",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9605-3762"
             },
             {
               "city": "Itaqui",
               "op_owner": "Ítalo Ponciano",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "64 9283-0395",
               "svc_owner": "José Mario",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9605-3762"
             },
             {
               "city": "Maçambará",
               "op_owner": "Ítalo Ponciano",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "64 9283-0395",
               "svc_owner": "José Mario",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9605-3762"
             },
             {
               "city": "São Borja",
               "op_owner": "Ítalo Ponciano",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "64 9283-0395",
               "svc_owner": "Thiago Malheiro",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "67 9126-7512"
             }
           ]
         }
@@ -200,58 +200,58 @@
             {
               "city": "Alecrim",
               "op_owner": "Clailton Seger",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9162-0188",
               "svc_owner": "Fabricio Jesus",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9603-2571"
             },
             {
               "city": "Giruá",
               "op_owner": "Clailton Seger",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9162-0188",
               "svc_owner": "Fabricio Jesus",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9603-2571"
             },
             {
               "city": "Horizontina",
               "op_owner": "Gilvan de Almeida",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9670-8749",
               "svc_owner": "Gilvan de Almeida",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9670-8749"
             },
             {
               "city": "Dr. Maurício Cardoso",
               "op_owner": "Gilvan de Almeida",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9670-8749",
               "svc_owner": "Gilvan de Almeida",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9670-8749"
             },
             {
               "city": "Santa Rosa",
               "op_owner": "Clailton Seger",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9162-0188",
               "svc_owner": "Fabricio Jesus",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9603-2571"
             },
             {
               "city": "Santo Cristo",
               "op_owner": "Clailton Seger",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9162-0188",
               "svc_owner": "Fabricio Jesus",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9603-2571"
             },
             {
               "city": "Tucunduva",
               "op_owner": "Gilvan de Almeida",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9670-8749",
               "svc_owner": "Gilvan de Almeida",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9670-8749"
             },
             {
               "city": "Tuparendi",
               "op_owner": "Gilvan de Almeida",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9670-8749",
               "svc_owner": "Gilvan de Almeida",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9670-8749"
             }
           ]
         },
@@ -262,58 +262,58 @@
             {
               "city": "Campina das Missões",
               "op_owner": "Alex Sandri",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8452-1367",
               "svc_owner": "Dower Taylor",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9216-7350"
             },
             {
               "city": "Cândido Godói",
               "op_owner": "Rudinei Sausen",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9987-8824",
               "svc_owner": "Rudinei Sausen",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9987-8824"
             },
             {
               "city": "Cerro Largo",
               "op_owner": "Rudinei Sausen",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9987-8824",
               "svc_owner": "Rudinei Sausen",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9987-8824"
             },
             {
               "city": "Entre-Ijuís",
               "op_owner": "Alex Sandri",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8452-1367",
               "svc_owner": "Dower Taylor",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9216-7350"
             },
             {
               "city": "Guarani das Missões",
               "op_owner": "Rudinei Sausen",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9987-8824",
               "svc_owner": "Rudinei Sausen",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9987-8824"
             },
             {
               "city": "Porto Lucena",
               "op_owner": "Rudinei Sausen",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9987-8824",
               "svc_owner": "Rudinei Sausen",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9987-8824"
             },
             {
               "city": "Porto Xavier",
               "op_owner": "Rudinei Sausen",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9987-8824",
               "svc_owner": "Rudinei Sausen",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9987-8824"
             },
             {
               "city": "Santo Ângelo",
               "op_owner": "Alex Sandri",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8452-1367",
               "svc_owner": "Dower Taylor",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9216-7350"
             }
           ]
         },
@@ -324,163 +324,163 @@
             {
               "city": "Barra Do Guarita",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Boa Vista do Buricá",
               "op_owner": "Claudio Roberto",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9910-0733",
               "svc_owner": "Claudio Roberto",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9910-0733"
             },
             {
               "city": "Bom Progresso",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Braga",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Campo Novo",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Chiapetta",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Coronel Bicaco",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Crissiumal",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Derrubadas",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Humaitá",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Independência",
               "op_owner": "Claudio Roberto",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9910-0733",
               "svc_owner": "Claudio Roberto",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9910-0733"
             },
             {
               "city": "Inhacorá",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Miraguaí",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Redentora",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Santo Augusto",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "São José do Inhacorá",
               "op_owner": "Claudio Roberto",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9910-0733",
               "svc_owner": "Claudio Roberto",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9910-0733"
             },
             {
               "city": "São Martinho",
               "op_owner": "Claudio Roberto",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9910-0733",
               "svc_owner": "Claudio Roberto",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9910-0733"
             },
             {
               "city": "Sede Nova",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Tenente Portela",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             },
             {
               "city": "Tiradentes do Sul",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Três de Maio",
               "op_owner": "Claudio Roberto",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9910-0733",
               "svc_owner": "Claudio Roberto",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9910-0733"
             },
             {
               "city": "Três Passos",
               "op_owner": "Maico Abreu",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 8448-1334",
               "svc_owner": "Maico Abreu",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 8448-1334"
             },
             {
               "city": "Vista Gaúcha",
               "op_owner": "Darlan Flores",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9646-8127",
               "svc_owner": "Darlan Flores",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9646-8127"
             }
           ]
         }
