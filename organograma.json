@@ -1,0 +1,490 @@
+{
+  "title": "Organograma (a partir do ORGANOGRAMA.xlsx)",
+  "regional": {
+    "role": "Gerente Operações",
+    "name": "Alexandre Kunkel da Costa"
+  },
+  "macros": [
+    {
+      "name": "G5.1 - Alegrete",
+      "manager": "Renan da Silva Kaduviski",
+      "micros": [
+        {
+          "name": "5.1 - Alegrete",
+          "coordinator": "Diogo Antunes Goncalves",
+          "cities": [
+            {
+              "city": "Alegrete",
+              "op_owner": "Alaerti Alfonso",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Valerio Moreira dos Santos",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Manoel Viana",
+              "op_owner": "Alaerti Alfonso",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Valerio Moreira dos Santos",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Quaraí",
+              "op_owner": "Cezar",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Cezar",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        },
+        {
+          "name": "5.3 - Rosário",
+          "coordinator": "Pedro Etcheverria Neto",
+          "cities": [
+            {
+              "city": "Cacequi",
+              "op_owner": "Lorena Aparecida Nunes",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Humberto Aguilar Alende",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Dom pedrito",
+              "op_owner": "Andressa Miranda",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Andressa Miranda",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Rosário do sul",
+              "op_owner": "Lorena Aparecida Nunes",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Humberto Aguilar Alende",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São vicente do sul",
+              "op_owner": "Lorena Aparecida Nunes",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Humberto Aguilar Alende",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        },
+        {
+          "name": "5.4 - Santiago",
+          "coordinator": "Alessandro C. Vargas do Nascimento",
+          "cities": [
+            {
+              "city": "Bossoroca",
+              "op_owner": "André Luiz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Caibaté",
+              "op_owner": "Gustavo Kreuz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Alex Ely",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Jaguari",
+              "op_owner": "Diogo Parise Benvegnu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Diogo Parise Benvegnu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Nova esperança do sul",
+              "op_owner": "Diogo Parise Benvegnu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Diogo Parise Benvegnu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santiago",
+              "op_owner": "André Luiz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santo Antônio das Missões",
+              "op_owner": "Gustavo Kreuz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Alex Ely",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Francisco de Assis",
+              "op_owner": "Diogo Parise Benvegnu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Diogo Parise Benvegnu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Luiz Gonzaga",
+              "op_owner": "Gustavo Kreuz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Alex Ely",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Miguel das Missões",
+              "op_owner": "Gustavo Kreuz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Alex Ely",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Nicolau",
+              "op_owner": "Gustavo Kreuz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Alex Ely",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Unistalda",
+              "op_owner": "André Luiz",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        },
+        {
+          "name": "5.5 - São Borja",
+          "coordinator": "Luiz Fernando Andre",
+          "cities": [
+            {
+              "city": "Barra do Quaraí",
+              "op_owner": "Ítalo Ponciano",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "José Mario",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Itaqui",
+              "op_owner": "Ítalo Ponciano",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "José Mario",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Maçambará",
+              "op_owner": "Ítalo Ponciano",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "José Mario",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Borja",
+              "op_owner": "Ítalo Ponciano",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Thiago Malheiro",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "G5.2 - Santa Rosa",
+      "manager": "Nilceu Junior Forgiarini",
+      "micros": [
+        {
+          "name": "5.2 - Santa Rosa",
+          "coordinator": "Eliana Kazue Moriguchi",
+          "cities": [
+            {
+              "city": "Alecrim",
+              "op_owner": "Clailton Seger",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Fabricio Jesus",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Giruá",
+              "op_owner": "Clailton Seger",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Fabricio Jesus",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Horizontina",
+              "op_owner": "Gilvan de Almeida",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Gilvan de Almeida",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Dr. Maurício Cardoso",
+              "op_owner": "Gilvan de Almeida",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Gilvan de Almeida",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santa Rosa",
+              "op_owner": "Clailton Seger",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Fabricio Jesus",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santo Cristo",
+              "op_owner": "Clailton Seger",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Fabricio Jesus",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Tucunduva",
+              "op_owner": "Gilvan de Almeida",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Gilvan de Almeida",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Tuparendi",
+              "op_owner": "Gilvan de Almeida",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Gilvan de Almeida",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        },
+        {
+          "name": "5.6 - Santo Angelo",
+          "coordinator": "Tulio Abot Bertola",
+          "cities": [
+            {
+              "city": "Campina das Missões",
+              "op_owner": "Alex Sandri",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Dower Taylor",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Cândido Godói",
+              "op_owner": "Rudinei Sausen",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Rudinei Sausen",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Cerro Largo",
+              "op_owner": "Rudinei Sausen",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Rudinei Sausen",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Entre-Ijuís",
+              "op_owner": "Alex Sandri",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Dower Taylor",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Guarani das Missões",
+              "op_owner": "Rudinei Sausen",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Rudinei Sausen",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Porto Lucena",
+              "op_owner": "Rudinei Sausen",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Rudinei Sausen",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Porto Xavier",
+              "op_owner": "Rudinei Sausen",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Rudinei Sausen",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santo Ângelo",
+              "op_owner": "Alex Sandri",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Dower Taylor",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        },
+        {
+          "name": "5.7 - Três Passos",
+          "coordinator": "Fernando H. Brito Borges",
+          "cities": [
+            {
+              "city": "Barra Do Guarita",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Boa Vista do Buricá",
+              "op_owner": "Claudio Roberto",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Claudio Roberto",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Bom Progresso",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Braga",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Campo Novo",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Chiapetta",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Coronel Bicaco",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Crissiumal",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Derrubadas",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Humaitá",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Independência",
+              "op_owner": "Claudio Roberto",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Claudio Roberto",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Inhacorá",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Miraguaí",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Redentora",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Santo Augusto",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São José do Inhacorá",
+              "op_owner": "Claudio Roberto",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Claudio Roberto",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "São Martinho",
+              "op_owner": "Claudio Roberto",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Claudio Roberto",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Sede Nova",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Tenente Portela",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Tiradentes do Sul",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Três de Maio",
+              "op_owner": "Claudio Roberto",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Claudio Roberto",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Três Passos",
+              "op_owner": "Maico Abreu",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Maico Abreu",
+              "svc_contact": "xxxxxxxx"
+            },
+            {
+              "city": "Vista Gaúcha",
+              "op_owner": "Darlan Flores",
+              "op_contact": "xxxxxxxx",
+              "svc_owner": "Darlan Flores",
+              "svc_contact": "xxxxxxxx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
