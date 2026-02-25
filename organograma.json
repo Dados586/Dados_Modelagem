@@ -30,9 +30,9 @@
             {
               "city": "Quaraí",
               "op_owner": "Cezar",
-              "op_contact": "xxxxxxxx",
+              "op_contact": "55 9212-1538",
               "svc_owner": "Cezar",
-              "svc_contact": "xxxxxxxx"
+              "svc_contact": "55 9212-1538"
             }
           ]
         },
@@ -44,8 +44,8 @@
               "city": "Cacequi",
               "op_owner": "Lorena Aparecida Nunes",
               "op_contact": "53 9107-3168",
-              "svc_owner": "Humberto Aguilar Alende",
-              "svc_contact": "xxxxxxxx"
+              "svc_owner": "Lorena Aparecida Nunes",
+              "svc_contact": "53 9107-3168"
             },
             {
               "city": "Dom pedrito",
@@ -58,15 +58,15 @@
               "city": "Rosário do sul",
               "op_owner": "Lorena Aparecida Nunes",
               "op_contact": "53 9107-3168",
-              "svc_owner": "Humberto Aguilar Alende",
-              "svc_contact": "xxxxxxxx"
+              "svc_owner": "Lorena Aparecida Nunes",
+              "svc_contact": "53 9107-3168"
             },
             {
               "city": "São vicente do sul",
               "op_owner": "Lorena Aparecida Nunes",
               "op_contact": "53 9107-3168",
-              "svc_owner": "Humberto Aguilar Alende",
-              "svc_contact": "xxxxxxxx"
+              "svc_owner": "Lorena Aparecida Nunes",
+              "svc_contact": "53 9107-3168"
             }
           ]
         },
@@ -76,10 +76,10 @@
           "cities": [
             {
               "city": "Bossoroca",
-              "op_owner": "André Luiz",
-              "op_contact": "xxxxxxxx",
-              "svc_owner": "",
-              "svc_contact": "xxxxxxxx"
+              "op_owner": "Matheus Rebelo Marques",
+              "op_contact": "55 99969-1860",
+              "svc_owner": "Matheus Rebelo Marques",
+              "svc_contact": "55 99969-1860"
             },
             {
               "city": "Caibaté",
@@ -104,10 +104,10 @@
             },
             {
               "city": "Santiago",
-              "op_owner": "André Luiz",
-              "op_contact": "xxxxxxxx",
-              "svc_owner": "",
-              "svc_contact": "xxxxxxxx"
+              "op_owner": "Matheus Rebelo Marques",
+              "op_contact": "55 99969-1860",
+              "svc_owner": "Matheus Rebelo Marques",
+              "svc_contact": "55 99969-1860"
             },
             {
               "city": "Santo Antônio das Missões",
@@ -146,10 +146,10 @@
             },
             {
               "city": "Unistalda",
-              "op_owner": "André Luiz",
-              "op_contact": "xxxxxxxx",
-              "svc_owner": "",
-              "svc_contact": "xxxxxxxx"
+              "op_owner": "Matheus Rebelo Marques",
+              "op_contact": "55 99969-1860",
+              "svc_owner": "Matheus Rebelo Marques",
+              "svc_contact": "55 99969-1860"
             }
           ]
         },
