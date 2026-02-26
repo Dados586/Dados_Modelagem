@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T20:15:50.031065",
+  "generated_at": "2026-02-26T20:18:55.073682",
   "summary": {
     "total": 176,
     "conectados": 132,
@@ -10,6 +10,7 @@
   "items": [
     {
       "id": "bc026efffef5f118",
+      "galaxia_id": "FFE0A2",
       "nome": "FFE0A2",
       "addr": "AV. DOUTOR OSVALDO TEIXEIRA, 570",
       "cidade": "TUCUNDUVA",
@@ -24,6 +25,7 @@
     },
     {
       "id": "bc026efffef5ec77",
+      "galaxia_id": "FFE0B2",
       "nome": "FFE0B2",
       "addr": "RUA HUMAITÁ 56",
       "cidade": "TENENTE PORTELA",
@@ -38,6 +40,7 @@
     },
     {
       "id": "bc026efffef482f0",
+      "galaxia_id": "FFE1D8",
       "nome": "FFE1D8",
       "addr": "Rua Missioneira 578, Santo Ângelo - Rio Grande do Sul, 98801-760, Brasil",
       "cidade": "SANTO ANGELO",
@@ -52,6 +55,7 @@
     },
     {
       "id": "a46dd4fffe4214de",
+      "galaxia_id": "FFE56B",
       "nome": "FFE56B",
       "addr": "RUA SANTA CRUZ DO SUL 271",
       "cidade": "BARRA DO GUARITA",
@@ -66,6 +70,7 @@
     },
     {
       "id": "a46dd4fffe341916",
+      "galaxia_id": "FFE710",
       "nome": "FFE710",
       "addr": "Avenida Getúlio Vargas 169, Humaitá - Rio Grande do Sul, 98670-000, Brasil",
       "cidade": "HUMAITA",
@@ -80,6 +85,7 @@
     },
     {
       "id": "a46dd4fffe421426",
+      "galaxia_id": "FFE761",
       "nome": "FFE761",
       "addr": "RUA VEREADOR ESMELINDRO BATISTA DA SILVEIRA 2195",
       "cidade": "SAO NICOLAU",
@@ -94,6 +100,7 @@
     },
     {
       "id": "bc026efffef5fe0e",
+      "galaxia_id": "FFE764",
       "nome": "FFE764",
       "addr": "ROBERTO BERNARDI - 829",
       "cidade": "TENENTE PORTELA",
@@ -108,6 +115,7 @@
     },
     {
       "id": "a46dd4fffe421523",
+      "galaxia_id": "FFE765",
       "nome": "FFE765",
       "addr": "rua Ernesto Damaceno",
       "cidade": "SANTO ANGELO",
@@ -122,6 +130,7 @@
     },
     {
       "id": "a46dd4fffe421560",
+      "galaxia_id": "FFE768",
       "nome": "FFE768",
       "addr": "Avenida Alceu Duarte de Carvalho 1588, Zamperetti, Santiago - Rio Grande do Sul, 97707-860, Brasil",
       "cidade": "SANTIAGO",
@@ -136,6 +145,7 @@
     },
     {
       "id": "a46dd4fffe421493",
+      "galaxia_id": "FFE769",
       "nome": "FFE769",
       "addr": "RUA ANDRADE NEVES, 15, CENTRO, QUARAÍ",
       "cidade": "QUARAI",
@@ -150,6 +160,7 @@
     },
     {
       "id": "a46dd4fffe421533",
+      "galaxia_id": "FFE76C",
       "nome": "FFE76C",
       "addr": "TRAVESSA ANTONIO CARLOS VIDAL, 22",
       "cidade": "SAO FRANCISCO DE ASSIS",
@@ -164,6 +175,7 @@
     },
     {
       "id": "a46dd4fffe421532",
+      "galaxia_id": "FFE76D",
       "nome": "FFE76D",
       "addr": "Rua Carlos Gomes 259, Passo, São Borja - Rio Grande do Sul, 97670-000, Brasil",
       "cidade": "SAO BORJA",
@@ -178,6 +190,7 @@
     },
     {
       "id": "a46dd4fffe42147b",
+      "galaxia_id": "FFE770",
       "nome": "FFE770",
       "addr": "Rua Miguel Kaminski 1255",
       "cidade": "GUARANI DAS MISSOES",
@@ -192,6 +205,7 @@
     },
     {
       "id": "a46dd4fffe4214a1",
+      "galaxia_id": "FFE771",
       "nome": "FFE771",
       "addr": "MANUTENÇÃO",
       "cidade": "TENENTE PORTELA",
@@ -206,6 +220,7 @@
     },
     {
       "id": "a46dd4fffe42152d",
+      "galaxia_id": "FFE77E",
       "nome": "FFE77E",
       "addr": "Rua Amadeu do Prado Malmann, 250, Tuparendi",
       "cidade": "TUPARENDI",
@@ -220,6 +235,7 @@
     },
     {
       "id": "a46dd4fffe4214c5",
+      "galaxia_id": "FFE77F",
       "nome": "FFE77F",
       "addr": "rua sargento Pedro krinski 362",
       "cidade": "GUARANI DAS MISSOES",
@@ -234,6 +250,7 @@
     },
     {
       "id": "a46dd4fffe4214ad",
+      "galaxia_id": "FFE780",
       "nome": "FFE780",
       "addr": "Poço BOS06",
       "cidade": "BOSSOROCA",
@@ -248,6 +265,7 @@
     },
     {
       "id": "a46dd4fffe421504",
+      "galaxia_id": "FFE784",
       "nome": "FFE784",
       "addr": "MAXIMILIANO - 1376",
       "cidade": "CERRO LARGO",
@@ -262,6 +280,7 @@
     },
     {
       "id": "a46dd4fffe4214a5",
+      "galaxia_id": "FFE78A",
       "nome": "FFE78A",
       "addr": "Presidente Getúlio Vargas 1645",
       "cidade": "CHIAPETTA",
@@ -276,6 +295,7 @@
     },
     {
       "id": "bc026efffef5fe27",
+      "galaxia_id": "FFE79C",
       "nome": "FFE79C",
       "addr": "RUA SILVA JARDIM, 1665",
       "cidade": "SAO FRANCISCO DE ASSIS",
@@ -290,6 +310,7 @@
     },
     {
       "id": "a46dd4fffe4214b7",
+      "galaxia_id": "FFE7A5",
       "nome": "FFE7A5",
       "addr": "Av Ipiranga n 675",
       "cidade": "CHIAPETTA",
@@ -304,6 +325,7 @@
     },
     {
       "id": "a46dd4fffe42154a",
+      "galaxia_id": "FFE7AA",
       "nome": "FFE7AA",
       "addr": "Rua Francisco Koltermann 2271, Itachere, São Borja - Rio Grande do Sul, 97670-000, Brasil",
       "cidade": "SAO BORJA",
@@ -318,6 +340,7 @@
     },
     {
       "id": "a46dd4fffe4214ba",
+      "galaxia_id": "FFE7AE",
       "nome": "FFE7AE",
       "addr": "Rua Armindo Engers, 197, Porto Xavier",
       "cidade": "PORTO XAVIER",
@@ -332,6 +355,7 @@
     },
     {
       "id": "a46dd4fffe4214fb",
+      "galaxia_id": "FFE7B0",
       "nome": "FFE7B0",
       "addr": "RUA SANTA ROSA, 148, TUPARENDI RS",
       "cidade": "TUPARENDI",
@@ -346,6 +370,7 @@
     },
     {
       "id": "a46dd4fffe4214b6",
+      "galaxia_id": "FFE7B3",
       "nome": "FFE7B3",
       "addr": "Rua 20 de setembro 1301",
       "cidade": "SAO VICENTE DO SUL",
@@ -360,6 +385,7 @@
     },
     {
       "id": "a46dd4fffe42155d",
+      "galaxia_id": "FFE7C0",
       "nome": "FFE7C0",
       "addr": "Av. Perimetral",
       "cidade": "TRES PASSOS",
@@ -374,6 +400,7 @@
     },
     {
       "id": "a46dd4fffe421547",
+      "galaxia_id": "FFE7DB",
       "nome": "FFE7DB",
       "addr": "RUA PINHEIRO ROCHA, 1128",
       "cidade": "SAO FRANCISCO DE ASSIS",
@@ -388,6 +415,7 @@
     },
     {
       "id": "bc026efffef5fe09",
+      "galaxia_id": "FFE7E3",
       "nome": "FFE7E3",
       "addr": "Rua conde de Porto alegre - 116",
       "cidade": "CERRO LARGO",
@@ -402,6 +430,7 @@
     },
     {
       "id": "a46dd4fffe421566",
+      "galaxia_id": "FFE7E5",
       "nome": "FFE7E5",
       "addr": "Rua 7 de Setembro 1451",
       "cidade": "SAO VICENTE DO SUL",
@@ -416,6 +445,7 @@
     },
     {
       "id": "a46dd4fffe42149b",
+      "galaxia_id": "FFE7EF",
       "nome": "FFE7EF",
       "addr": "RUA NILO PEÇANHA",
       "cidade": "HUMAITA",
@@ -430,6 +460,7 @@
     },
     {
       "id": "bc026efffef5fe0c",
+      "galaxia_id": "FFE7FE",
       "nome": "FFE7FE",
       "addr": "AV. DO COMÉRCIO, 1289",
       "cidade": "SANTO AUGUSTO",
@@ -444,6 +475,7 @@
     },
     {
       "id": "bc026efffef5f992",
+      "galaxia_id": "FFE861",
       "nome": "FFE861",
       "addr": "RUA PEDRO PELIZARI, 225",
       "cidade": "JAGUARI",
@@ -458,6 +490,7 @@
     },
     {
       "id": "bc026efffef5f9bb",
+      "galaxia_id": "FFE87C",
       "nome": "FFE87C",
       "addr": "AV. PORTO ALEGRE, 222",
       "cidade": "DERRUBADAS",
@@ -472,6 +505,7 @@
     },
     {
       "id": "bc026efffef5f98d",
+      "galaxia_id": "FFE8B6",
       "nome": "FFE8B6",
       "addr": "RUA GUAPORÉ 1035",
       "cidade": "SANTA ROSA",
@@ -486,6 +520,7 @@
     },
     {
       "id": "bc026efffef5f5c2",
+      "galaxia_id": "FFE8BC",
       "nome": "FFE8BC",
       "addr": "AV. CENTRAL 1703",
       "cidade": "SANTO AUGUSTO",
@@ -500,6 +535,7 @@
     },
     {
       "id": "bc026efffef5f9a2",
+      "galaxia_id": "FFE8C3",
       "nome": "FFE8C3",
       "addr": "AV. 9 DE MAIO",
       "cidade": "VISTA GAUCHA",
@@ -514,6 +550,7 @@
     },
     {
       "id": "bc026efffef5f5e3",
+      "galaxia_id": "FFE8C6",
       "nome": "FFE8C6",
       "addr": "AV. PORTO ALEGRE, 1202",
       "cidade": "DERRUBADAS",
@@ -528,6 +565,7 @@
     },
     {
       "id": "bc026efffef5f5c6",
+      "galaxia_id": "FFE8C8",
       "nome": "FFE8C8",
       "addr": "RUA SANTA ANA",
       "cidade": "CAMPINA DAS MISSOES",
@@ -542,6 +580,7 @@
     },
     {
       "id": "bc026efffef5f5ee",
+      "galaxia_id": "FFE8D2",
       "nome": "FFE8D2",
       "addr": "REINALDO FRANCKE SCHITTLER",
       "cidade": "CANDIDO GODOI",
@@ -556,6 +595,7 @@
     },
     {
       "id": "bc026efffef5f5c4",
+      "galaxia_id": "FFE8DA",
       "nome": "FFE8DA",
       "addr": "PREF. JOSÉ NUNES DE ABREU 7444",
       "cidade": "SANTO ANTONIO DAS MISSOES",
@@ -570,6 +610,7 @@
     },
     {
       "id": "bc026efffef5f5f4",
+      "galaxia_id": "FFE8DF",
       "nome": "FFE8DF",
       "addr": "RS 520 - 198",
       "cidade": "INHACORA",
@@ -584,6 +625,7 @@
     },
     {
       "id": "bc026efffef5fde0",
+      "galaxia_id": "FFE8F1",
       "nome": "FFE8F1",
       "addr": "Travessa José Azzi",
       "cidade": "GIRUA",
@@ -598,6 +640,7 @@
     },
     {
       "id": "bc026efffef5fddf",
+      "galaxia_id": "FFE8FA",
       "nome": "FFE8FA",
       "addr": "RUA PORTO LUCENA, 302",
       "cidade": "PORTO LUCENA",
@@ -612,6 +655,7 @@
     },
     {
       "id": "bc026efffef5f9d7",
+      "galaxia_id": "FFE903",
       "nome": "FFE903",
       "addr": "RS-468",
       "cidade": "TIRADENTES DO SUL",
@@ -626,6 +670,7 @@
     },
     {
       "id": "bc026efffef5f119",
+      "galaxia_id": "FFE921",
       "nome": "FFE921",
       "addr": "R. PRES. MÉDICI",
       "cidade": "CANDIDO GODOI",
@@ -640,6 +685,7 @@
     },
     {
       "id": "bc026efffef5f139",
+      "galaxia_id": "FFE923",
       "nome": "FFE923",
       "addr": "AV. ALBERTO PASQUALINI, 15",
       "cidade": "BRAGA",
@@ -654,6 +700,7 @@
     },
     {
       "id": "bc026efffef5f0fa",
+      "galaxia_id": "FFE925",
       "nome": "FFE925",
       "addr": "NOSSA SENHORA DAS GRAÇAS",
       "cidade": "TIRADENTES DO SUL",
@@ -668,6 +715,7 @@
     },
     {
       "id": "bc026efffef5f5ad",
+      "galaxia_id": "FFE927",
       "nome": "FFE927",
       "addr": "RUA CHILE, 21",
       "cidade": "PORTO LUCENA",
@@ -682,6 +730,7 @@
     },
     {
       "id": "bc026efffef5f5b1",
+      "galaxia_id": "FFE938",
       "nome": "FFE938",
       "addr": "RUA ROSA 14",
       "cidade": "MIRAGUAI",
@@ -696,6 +745,7 @@
     },
     {
       "id": "bc026efffef5f151",
+      "galaxia_id": "FFE942",
       "nome": "FFE942",
       "addr": "RUA DORIVAL GONÇALVES 564",
       "cidade": "SANTO ANTONIO DAS MISSOES",
@@ -710,6 +760,7 @@
     },
     {
       "id": "bc026efffef5f5ba",
+      "galaxia_id": "FFE947",
       "nome": "FFE947",
       "addr": "RUA SÃO PAULO 60",
       "cidade": "MIRAGUAI",
@@ -724,6 +775,7 @@
     },
     {
       "id": "bc026efffef5f137",
+      "galaxia_id": "FFE948",
       "nome": "FFE948",
       "addr": "ESTRADA SEM NOME",
       "cidade": "CAIBATE",
@@ -738,6 +790,7 @@
     },
     {
       "id": "bc026efffef5f12b",
+      "galaxia_id": "FFE94A",
       "nome": "FFE94A",
       "addr": "TREVO RS 529",
       "cidade": "MACAMBARA",
@@ -752,6 +805,7 @@
     },
     {
       "id": "bc026efffef5f5a7",
+      "galaxia_id": "FFE94E",
       "nome": "FFE94E",
       "addr": "RUA ANTONIO NETO, 3059",
       "cidade": "ITAQUI",
@@ -766,6 +820,7 @@
     },
     {
       "id": "bc026efffef5f145",
+      "galaxia_id": "FFE953",
       "nome": "FFE953",
       "addr": "RUA JULIO DE CASTILHOS 1340",
       "cidade": "SAO NICOLAU",
@@ -780,6 +835,7 @@
     },
     {
       "id": "bc026efffef5f5ac",
+      "galaxia_id": "FFE954",
       "nome": "FFE954",
       "addr": "Rua Dionísio Araújo, s/n, Inhame - BOS02",
       "cidade": "BOSSOROCA",
@@ -794,6 +850,7 @@
     },
     {
       "id": "bc026efffef5f14e",
+      "galaxia_id": "FFE95D",
       "nome": "FFE95D",
       "addr": "RUA ALBERTO PASQUALINI 30",
       "cidade": "BARRA DO GUARITA",
@@ -808,6 +865,7 @@
     },
     {
       "id": "bc026efffef5f5bb",
+      "galaxia_id": "FFE95F",
       "nome": "FFE95F",
       "addr": "Rua Pedro romano Nedel, 154",
       "cidade": "CAMPINA DAS MISSOES",
@@ -822,6 +880,7 @@
     },
     {
       "id": "bc026efffef5f5b5",
+      "galaxia_id": "FFE96C",
       "nome": "FFE96C",
       "addr": "RUA FELICIO ZORZAN",
       "cidade": "INHACORA",
@@ -836,6 +895,7 @@
     },
     {
       "id": "bc026efffef5ec7d",
+      "galaxia_id": "FFE994",
       "nome": "FFE994",
       "addr": "RUA WILLI TAUBE",
       "cidade": "PORTO XAVIER",
@@ -850,6 +910,7 @@
     },
     {
       "id": "bc026efffef5ec75",
+      "galaxia_id": "FFE995",
       "nome": "FFE995",
       "addr": "AV. SALVADOR PINHEIRO MACHADO 1399",
       "cidade": "SAO LUIZ GONZAGA",
@@ -864,6 +925,7 @@
     },
     {
       "id": "bc026efffef5f130",
+      "galaxia_id": "FFE99A",
       "nome": "FFE99A",
       "addr": "RUA MINAS GERAIS -  ACESSO AO COLEGIO LEOPOLDO AMES",
       "cidade": "SANTO CRISTO",
@@ -878,6 +940,7 @@
     },
     {
       "id": "bc026efffef5f110",
+      "galaxia_id": "FFE9B1",
       "nome": "FFE9B1",
       "addr": "Av Brasil 3081 Boa Vista do Buricá -RS",
       "cidade": "BOA VISTA DO BURICA",
@@ -892,6 +955,7 @@
     },
     {
       "id": "bc026efffef5f114",
+      "galaxia_id": "FFE9B2",
       "nome": "FFE9B2",
       "addr": "BR 377 - PROXIMO AO TREVO",
       "cidade": "QUARAI",
@@ -906,6 +970,7 @@
     },
     {
       "id": "bc026efffef5f11a",
+      "galaxia_id": "FFE9B3",
       "nome": "FFE9B3",
       "addr": "RUA AGENOR JACINTO DA SILVA, 293",
       "cidade": "PORTO XAVIER",
@@ -920,6 +985,7 @@
     },
     {
       "id": "bc026efffef5f116",
+      "galaxia_id": "FFE9B4",
       "nome": "FFE9B4",
       "addr": "R. ZEFERINO BRASIL",
       "cidade": "TRES PASSOS",
@@ -934,6 +1000,7 @@
     },
     {
       "id": "bc026efffef5f0f2",
+      "galaxia_id": "FFE9B6",
       "nome": "FFE9B6",
       "addr": "Rua Ignácio Pinto 1044 Independência-RS",
       "cidade": "INDEPENDENCIA",
@@ -948,6 +1015,7 @@
     },
     {
       "id": "bc026efffef5f13c",
+      "galaxia_id": "FFE9B9",
       "nome": "FFE9B9",
       "addr": "RUA CASTELO BRANCO",
       "cidade": "ALECRIM",
@@ -962,6 +1030,7 @@
     },
     {
       "id": "bc026efffef5f115",
+      "galaxia_id": "FFE9BB",
       "nome": "FFE9BB",
       "addr": "Rua João  Bordim, 215",
       "cidade": "PORTO LUCENA",
@@ -976,6 +1045,7 @@
     },
     {
       "id": "bc026efffef5f123",
+      "galaxia_id": "FFE9BE",
       "nome": "FFE9BE",
       "addr": "AV. PREF. JOSÉ EUGÊNIO RAUBER - 884",
       "cidade": "ALECRIM",
@@ -990,6 +1060,7 @@
     },
     {
       "id": "bc026efffef5eca0",
+      "galaxia_id": "FFE9C0",
       "nome": "FFE9C0",
       "addr": "Rua vitorio Dezorzi 156, Crissiumal",
       "cidade": "CRISSIUMAL",
@@ -1004,6 +1075,7 @@
     },
     {
       "id": "bc026efffef5ec8d",
+      "galaxia_id": "FFE9C1",
       "nome": "FFE9C1",
       "addr": "Rua capitão Torquato de Araújo - 565",
       "cidade": "SEDE NOVA",
@@ -1018,6 +1090,7 @@
     },
     {
       "id": "bc026efffef5f0f3",
+      "galaxia_id": "FFE9C3",
       "nome": "FFE9C3",
       "addr": "Rua Salzano Vieira da Cunha 200 Boa Vista do Buricá -RS",
       "cidade": "BOA VISTA DO BURICA",
@@ -1032,6 +1105,7 @@
     },
     {
       "id": "bc026efffef5ec84",
+      "galaxia_id": "FFE9C7",
       "nome": "FFE9C7",
       "addr": "Avenida José de Alençar, 1163",
       "cidade": "TRES PASSOS",
@@ -1046,6 +1120,7 @@
     },
     {
       "id": "bc026efffef5f0f9",
+      "galaxia_id": "FFE9C9",
       "nome": "FFE9C9",
       "addr": "AV. PRES. VARGAS, 281",
       "cidade": "CORONEL BICACO",
@@ -1060,6 +1135,7 @@
     },
     {
       "id": "bc026efffef5f0fd",
+      "galaxia_id": "FFE9CA",
       "nome": "FFE9CA",
       "addr": "RUA DR.AGRIPINO DE ARAUJO,210",
       "cidade": "ROSARIO DO SUL",
@@ -1074,6 +1150,7 @@
     },
     {
       "id": "bc026efffef5ec99",
+      "galaxia_id": "FFE9CB",
       "nome": "FFE9CB",
       "addr": "RUA VEREADOR ASSMANN - 791",
       "cidade": "SANTO CRISTO",
@@ -1088,6 +1165,7 @@
     },
     {
       "id": "bc026efffef5f0f5",
+      "galaxia_id": "FFE9CC",
       "nome": "FFE9CC",
       "addr": "RUA JOAO VIELMO, 1409 - POÇO NES 03",
       "cidade": "NOVA ESPERANCA DO SUL",
@@ -1102,6 +1180,7 @@
     },
     {
       "id": "bc026efffef5eca1",
+      "galaxia_id": "FFE9D0",
       "nome": "FFE9D0",
       "addr": "RUA QUINZE DE MAIO - 1023",
       "cidade": "CAIBATE",
@@ -1116,6 +1195,7 @@
     },
     {
       "id": "bc026efffef5f103",
+      "galaxia_id": "FFE9D1",
       "nome": "FFE9D1",
       "addr": "Rua São Miguel 952 Independência-RS",
       "cidade": "INDEPENDENCIA",
@@ -1130,6 +1210,7 @@
     },
     {
       "id": "bc026efffef5ec97",
+      "galaxia_id": "FFE9D4",
       "nome": "FFE9D4",
       "addr": "Rua São João, 1120",
       "cidade": "SAO MIGUEL DAS MISSOES",
@@ -1144,6 +1225,7 @@
     },
     {
       "id": "bc026efffef5ec98",
+      "galaxia_id": "FFE9D6",
       "nome": "FFE9D6",
       "addr": "Rua Cacildo João Fla 35 São Martinho -RS",
       "cidade": "SAO MARTINHO",
@@ -1158,6 +1240,7 @@
     },
     {
       "id": "bc026efffef5ec9a",
+      "galaxia_id": "FFE9D7",
       "nome": "FFE9D7",
       "addr": "Rua Alfredo Leopoldo Traesel 107 São Martinho -RS",
       "cidade": "SAO MARTINHO",
@@ -1172,6 +1255,7 @@
     },
     {
       "id": "bc026efffef5f101",
+      "galaxia_id": "FFE9DA",
       "nome": "FFE9DA",
       "addr": "Rua Duque De Caxias 397, Tucunduva - Rio Grande do Sul, 98930-000, Brasil",
       "cidade": "TUCUNDUVA",
@@ -1186,6 +1270,7 @@
     },
     {
       "id": "bc026efffef5aa96",
+      "galaxia_id": "FFE9E5",
       "nome": "FFE9E5",
       "addr": "RUA SÃO BERNARDO, 611",
       "cidade": "BOA VISTA DO BURICA",
@@ -1200,6 +1285,7 @@
     },
     {
       "id": "bc026efffef5b0c6",
+      "galaxia_id": "FFE9E6",
       "nome": "FFE9E6",
       "addr": "R. DUQUE DE CAXIAS",
       "cidade": "HUMAITA",
@@ -1214,6 +1300,7 @@
     },
     {
       "id": "bc026efffef5b4d4",
+      "galaxia_id": "FFE9E8",
       "nome": "FFE9E8",
       "addr": "SÃO NICOLAU - 730",
       "cidade": "SAO MIGUEL DAS MISSOES",
@@ -1228,6 +1315,7 @@
     },
     {
       "id": "bc026efffef56eef",
+      "galaxia_id": "FFE9EA",
       "nome": "FFE9EA",
       "addr": "Rua Santa Clara 724  São José do Inhacorá-RS",
       "cidade": "SAO JOSE DO INHACORA",
@@ -1242,6 +1330,7 @@
     },
     {
       "id": "bc026efffef582c7",
+      "galaxia_id": "FFE9EC",
       "nome": "FFE9EC",
       "addr": "RUA AIMORÉ 621",
       "cidade": "GIRUA",
@@ -1256,6 +1345,7 @@
     },
     {
       "id": "bc026efffef5e2c3",
+      "galaxia_id": "FFEC1E",
       "nome": "RUA_JOSE_RAMOS_LOPES_86\t",
       "addr": "Rua Vereador Carbonel - 309",
       "cidade": "ALEGRETE",
@@ -1270,6 +1360,7 @@
     },
     {
       "id": "bc026efffef5b4d2",
+      "galaxia_id": "FFEC24",
       "nome": "FFEC24",
       "addr": "ESTR.",
       "cidade": "CORONEL BICACO",
@@ -1284,6 +1375,7 @@
     },
     {
       "id": "bc026efffef5ad1c",
+      "galaxia_id": "FFEC49",
       "nome": "FFEC49",
       "addr": "R. A, 238",
       "cidade": "REDENTORA",
@@ -1298,6 +1390,7 @@
     },
     {
       "id": "bc026efffef58be6",
+      "galaxia_id": "FFEC55",
       "nome": "FFEC55",
       "addr": "Rua Neri Gomes Peixoto 338, Nei Pereira, Santiago - Rio Grande do Sul, 97701-030, Brasil",
       "cidade": "SANTIAGO",
@@ -1312,6 +1405,7 @@
     },
     {
       "id": "bc026efffef5e639",
+      "galaxia_id": "FFECC2",
       "nome": "FFECC2",
       "addr": "HOTEL SOLAR FLORES, BR 290",
       "cidade": "ALEGRETE",
@@ -1326,6 +1420,7 @@
     },
     {
       "id": "bc026efffef5aa9a",
+      "galaxia_id": "FFECDF",
       "nome": "FFECDF",
       "addr": "EUGENIO CORREA",
       "cidade": "SEDE NOVA",
@@ -1340,6 +1435,7 @@
     },
     {
       "id": "bc026efffef547db",
+      "galaxia_id": "FFECE8",
       "nome": "FFECE8",
       "addr": "R. LARANJEIRAS",
       "cidade": "CRISSIUMAL",
@@ -1354,6 +1450,7 @@
     },
     {
       "id": "bc026efffef5d0bf",
+      "galaxia_id": "FFED7E",
       "nome": "FFED7E",
       "addr": "Rua Flores da Cunha 775, Santiago Pompeu, Santiago - Rio Grande do Sul, 97701-239, Brasil",
       "cidade": "SANTIAGO",
@@ -1368,6 +1465,7 @@
     },
     {
       "id": "bc026efffef5ad3d",
+      "galaxia_id": "FFEDA8",
       "nome": "FFEDA8",
       "addr": "RUA JULIO DE CASTILHOS 712",
       "cidade": "INDEPENDENCIA",
@@ -1382,6 +1480,7 @@
     },
     {
       "id": "bc026efffef5ad2e",
+      "galaxia_id": "FFEDD2",
       "nome": "FFEDD2",
       "addr": "R. ACELINO LUTZ PINHEIRO, 1070",
       "cidade": "REDENTORA",
@@ -1396,6 +1495,7 @@
     },
     {
       "id": "bc026efffef46e84",
+      "galaxia_id": "FFEE0A",
       "nome": "FFEE0A",
       "addr": "RUA_JOAO_FAGUNDES_S/N_POCO_BOS_06",
       "cidade": "MAURICIO CARDOSO",
@@ -1410,6 +1510,7 @@
     },
     {
       "id": "bc026efffef5ad12",
+      "galaxia_id": "FFEE0C",
       "nome": "FFEE0C",
       "addr": "RUA OSVALDO ARANHA",
       "cidade": "CACEQUI",
@@ -1424,6 +1525,7 @@
     },
     {
       "id": "bc026efffef5ad1f",
+      "galaxia_id": "FFEE12",
       "nome": "FFEE12",
       "addr": "AV. CAMPOS SALES, 481",
       "cidade": "BRAGA",
@@ -1438,6 +1540,7 @@
     },
     {
       "id": "bc026efffef5ad2b",
+      "galaxia_id": "FFEE15",
       "nome": "FFEE15",
       "addr": "Av. Castelo Branco",
       "cidade": "BOM PROGRESSO",
@@ -1452,6 +1555,7 @@
     },
     {
       "id": "bc026efffef5ad2d",
+      "galaxia_id": "FFEE1D",
       "nome": "FFEE1D",
       "addr": "R. Caraíba, 116",
       "cidade": "ALEGRETE",
@@ -1466,6 +1570,7 @@
     },
     {
       "id": "bc026efffef5aa89",
+      "galaxia_id": "FFEE20",
       "nome": "MANUTENÇÃO",
       "addr": "AV. CASTELO BRANCO - CIMA",
       "cidade": "BOM PROGRESSO",
@@ -1480,6 +1585,7 @@
     },
     {
       "id": "bc026efffef5daab",
+      "galaxia_id": "FFEE33",
       "nome": "FFEE33",
       "addr": "RUA SAO JOAO, 30",
       "cidade": "TRES DE MAIO",
@@ -1494,6 +1600,7 @@
     },
     {
       "id": "bc026efffef5b87b",
+      "galaxia_id": "FFEF0B",
       "nome": "FFEF0B",
       "addr": "Roberto Krobss 177",
       "cidade": "CACEQUI",
@@ -1508,6 +1615,7 @@
     },
     {
       "id": "bc026efffef5b07f",
+      "galaxia_id": "FFEF0C",
       "nome": "FFEF0C",
       "addr": "RUA PROTÁSIO NENE 724",
       "cidade": "UNISTALDA",
@@ -1522,6 +1630,7 @@
     },
     {
       "id": "bc026efffef5436f",
+      "galaxia_id": "FFEF28",
       "nome": "FFEF28",
       "addr": "Benjamim Constant 1506",
       "cidade": "SAO LUIZ GONZAGA",
@@ -1536,6 +1645,7 @@
     },
     {
       "id": "bc026efffef5b883",
+      "galaxia_id": "FFEF67",
       "nome": "FFEF67",
       "addr": "RUA WILSON PIRES GAVIÃO",
       "cidade": "MACAMBARA",
@@ -1550,6 +1660,7 @@
     },
     {
       "id": "bc026efffef60117",
+      "galaxia_id": "FFF05B",
       "nome": "FFF05B",
       "addr": "RUA_JOAO_EVANGELISTA_1085",
       "cidade": "SANTIAGO",
@@ -1564,6 +1675,7 @@
     },
     {
       "id": "bc026efffef5cab4",
+      "galaxia_id": "FFF06D",
       "nome": "FFF06D",
       "addr": "RESERVATORIO_02",
       "cidade": "MANOEL VIANA",
@@ -1578,6 +1690,7 @@
     },
     {
       "id": "bc026efffef5c39d",
+      "galaxia_id": "FFF074",
       "nome": "FFF074",
       "addr": "RUA_ISIDORO_AURELIO_222",
       "cidade": "ALEGRETE",
@@ -1592,6 +1705,7 @@
     },
     {
       "id": "bc026efffef5aa9e",
+      "galaxia_id": "FFF081",
       "nome": "FFF081",
       "addr": "Rua Júlio de Castilhos 6107",
       "cidade": "SAO LUIZ GONZAGA",
@@ -1606,6 +1720,7 @@
     },
     {
       "id": "bc026efffef5c389",
+      "galaxia_id": "FFF096",
       "nome": "FFF096",
       "addr": "RUA_BENJAMIN_DUARTE_CAMARGO",
       "cidade": "SAO BORJA",
@@ -1620,6 +1735,7 @@
     },
     {
       "id": "bc026efffef5caac",
+      "galaxia_id": "FFF09C",
       "nome": "FFF09C",
       "addr": "RUA FLORES DA CUNHA",
       "cidade": "ALEGRETE",
@@ -1634,6 +1750,7 @@
     },
     {
       "id": "bc026efffef5bcc6",
+      "galaxia_id": "FFF0BE",
       "nome": "FFF0BE",
       "addr": "RUA_HONORIO_LEMES_1572",
       "cidade": "MANOEL VIANA",
@@ -1648,6 +1765,7 @@
     },
     {
       "id": "bc026efffef5c394",
+      "galaxia_id": "FFF0F7",
       "nome": "FFF0F7",
       "addr": "Rua Santa Maria 1198, Medianeira, Alegrete - Rio Grande do Sul, 97543-510, Brasil",
       "cidade": "ALEGRETE",
@@ -1662,6 +1780,7 @@
     },
     {
       "id": "bc026efffef5c705",
+      "galaxia_id": "FFF106",
       "nome": "FFF106",
       "addr": "PRACA_GETULIO_VARGAS_112",
       "cidade": "ALEGRETE",
@@ -1676,6 +1795,7 @@
     },
     {
       "id": "bc026efffef5c347",
+      "galaxia_id": "FFF13B",
       "nome": "FFF13B",
       "addr": "Rua Constantino Da Costa Leite 1",
       "cidade": "ALEGRETE",
@@ -1690,6 +1810,7 @@
     },
     {
       "id": "bc026efffef5c35e",
+      "galaxia_id": "FFF14A",
       "nome": "FFF14A",
       "addr": "RUA_PANDIA_CALOGERA_381",
       "cidade": "ALEGRETE",
@@ -1704,6 +1825,7 @@
     },
     {
       "id": "bc026efffef46188",
+      "galaxia_id": "FFF22D",
       "nome": "FFF22D",
       "addr": "AV. FARROUPILHA",
       "cidade": "TRES PASSOS",
@@ -1718,6 +1840,7 @@
     },
     {
       "id": "bc026efffef49e13",
+      "galaxia_id": "FFF243",
       "nome": "FFF243",
       "addr": "RUA_SEM_DENOMINAÇÃO_931",
       "cidade": "SANTIAGO",
@@ -1732,6 +1855,7 @@
     },
     {
       "id": "bc026efffef49e0f",
+      "galaxia_id": "FFF246",
       "nome": "FFF246",
       "addr": "RUA SAO FRANCISCO - 3773",
       "cidade": "ROSARIO DO SUL",
@@ -1746,6 +1870,7 @@
     },
     {
       "id": "bc026efffef49df9",
+      "galaxia_id": "FFF24B",
       "nome": "FFF24B",
       "addr": "RUA SANTO AUGUSTO, 528",
       "cidade": "HORIZONTINA",
@@ -1760,6 +1885,7 @@
     },
     {
       "id": "bc026efffef47315",
+      "galaxia_id": "FFF253",
       "nome": "FFF253",
       "addr": "RUA_6_NUMERO_10",
       "cidade": "BARRA DO QUARAI",
@@ -1774,6 +1900,7 @@
     },
     {
       "id": "bc026efffef46675",
+      "galaxia_id": "FFF29E",
       "nome": "FFF29E",
       "addr": "Av. Castelo Branco, 19 - Cohab, Itaqui - RS, 97650-000",
       "cidade": "ITAQUI",
@@ -1788,6 +1915,7 @@
     },
     {
       "id": "bc026efffef38758",
+      "galaxia_id": "FFF2A1",
       "nome": "FFF2A1",
       "addr": "RUA PEDRO GERALDO SANTOS 527",
       "cidade": "SANTA ROSA",
@@ -1802,6 +1930,7 @@
     },
     {
       "id": "bc026efffef45d12",
+      "galaxia_id": "FFF2AA",
       "nome": "FFF2AA",
       "addr": "RUA_TAQUARA_799",
       "cidade": "ROSARIO DO SUL",
@@ -1816,6 +1945,7 @@
     },
     {
       "id": "bc026efffef48336",
+      "galaxia_id": "FFF2D4",
       "nome": "FFF2D4",
       "addr": "Rua Nicolau Ribeiro da Rocha, 192",
       "cidade": "CAMPO NOVO",
@@ -1830,6 +1960,7 @@
     },
     {
       "id": "bc026efffef48757",
+      "galaxia_id": "FFF2F5",
       "nome": "FFF2F5",
       "addr": "Rua 15 de Novembro",
       "cidade": "MAURICIO CARDOSO",
@@ -1844,6 +1975,7 @@
     },
     {
       "id": "bc026efffef45d68",
+      "galaxia_id": "FFF327",
       "nome": "FFF327",
       "addr": "RUA CORONEL JACINTO PEREIRA ,1521",
       "cidade": "DOM PEDRITO",
@@ -1858,6 +1990,7 @@
     },
     {
       "id": "bc026efffef45d52",
+      "galaxia_id": "FFF353",
       "nome": "FFF353",
       "addr": "R. ANDRÉ LACHNOFF",
       "cidade": "SANTA ROSA",
@@ -1872,6 +2005,7 @@
     },
     {
       "id": "bc026efffef48745",
+      "galaxia_id": "FFF358",
       "nome": "FFF358",
       "addr": "RUA GENERAL OSORIO",
       "cidade": "SAO BORJA",
@@ -1886,6 +2020,7 @@
     },
     {
       "id": "bc026efffef46a30",
+      "galaxia_id": "FFF363",
       "nome": "FFF363",
       "addr": "R. JOAQUIM NABUCO",
       "cidade": "SAO BORJA",
@@ -1900,6 +2035,7 @@
     },
     {
       "id": "bc026efffef47345",
+      "galaxia_id": "FFF379",
       "nome": "FFF379",
       "addr": "RUA_MOREIRA_CEZAR_ESQUINA_RUA_21_DE_ABRIL",
       "cidade": "DOM PEDRITO",
@@ -1914,6 +2050,7 @@
     },
     {
       "id": "bc026efffef482f7",
+      "galaxia_id": "FFF39D",
       "nome": "FFF39D",
       "addr": "ESTRADA_TRANQUILINO_COGO_1417",
       "cidade": "SANTIAGO",
@@ -1928,6 +2065,7 @@
     },
     {
       "id": "bc026efffef479e7",
+      "galaxia_id": "FFF3BC",
       "nome": "FFF3BC",
       "addr": "TRAVESSA_ALAN_KARDEC_97",
       "cidade": "ITAQUI",
@@ -1942,6 +2080,7 @@
     },
     {
       "id": "bc026efffef47e45",
+      "galaxia_id": "FFF3C8",
       "nome": "FFF3C8",
       "addr": "Rua Gaspar Da S. Martins 773, Santo Ângelo - Rio Grande do Sul, 98801-130, Brasil",
       "cidade": "SANTO ANGELO",
@@ -1956,6 +2095,7 @@
     },
     {
       "id": "bc026efffef4873a",
+      "galaxia_id": "FFF3C9",
       "nome": "FFF3C9",
       "addr": "RUA PETIT JEAN, 5014",
       "cidade": "SAO BORJA",
@@ -1970,6 +2110,7 @@
     },
     {
       "id": "bc026efffef4831d",
+      "galaxia_id": "FFF3E2",
       "nome": "FFF3E2",
       "addr": "Duque de Caxias, 3267",
       "cidade": "DOM PEDRITO",
@@ -1984,6 +2125,7 @@
     },
     {
       "id": "bc026efffef469ff",
+      "galaxia_id": "FFF430",
       "nome": "FFF430",
       "addr": "R. Cap. Onófre Rodrigues, 173 - Campo Novo, RS, 98570-000",
       "cidade": "CAMPO NOVO",
@@ -1998,6 +2140,7 @@
     },
     {
       "id": "bc026efffef479a3",
+      "galaxia_id": "FFF435",
       "nome": "FFF435",
       "addr": "Rua São Carlos 143, Santo Ângelo - Rio Grande do Sul, 98804-370, Brasil",
       "cidade": "SANTO ANGELO",
@@ -2012,6 +2155,7 @@
     },
     {
       "id": "bc026efffef479bc",
+      "galaxia_id": "FFF46E",
       "nome": "FFF46E",
       "addr": "RUA_15_DE_NOVEMBRO_1520",
       "cidade": "ROSARIO DO SUL",
@@ -2026,6 +2170,7 @@
     },
     {
       "id": "bc026efffef47e9f",
+      "galaxia_id": "FFF515",
       "nome": "FFF515",
       "addr": "RUA SETE DE SETEMBRO 2408",
       "cidade": "ROSARIO DO SUL",
@@ -2040,6 +2185,7 @@
     },
     {
       "id": "bc026efffef47e9c",
+      "galaxia_id": "FFF517",
       "nome": "FFF517",
       "addr": "RUA_VILA_NOVA_1267",
       "cidade": "BARRA DO QUARAI",
@@ -2054,6 +2200,7 @@
     },
     {
       "id": "bc026efffef38755",
+      "galaxia_id": "FFF569",
       "nome": "FFF569",
       "addr": "Rua Otaciliio Vezzosi 278, Vila Nova, Manoel Viana - Rio Grande do Sul, 97640-000, Brasil",
       "cidade": "MANOEL VIANA",
@@ -2068,6 +2215,7 @@
     },
     {
       "id": "bc026efffef4619e",
+      "galaxia_id": "FFF5DA",
       "nome": "FFF5DA",
       "addr": "Rua Horácio Pedroso 263",
       "cidade": "ENTRE IJUIS",
@@ -2082,6 +2230,7 @@
     },
     {
       "id": "bc026efffef45d34",
+      "galaxia_id": "FFF5DE",
       "nome": "FFF5DE",
       "addr": "RUA JOSÉ GOMES PORTINHO",
       "cidade": "TRES PASSOS",
@@ -2096,6 +2245,7 @@
     },
     {
       "id": "bc026efffef46a1b",
+      "galaxia_id": "FFF5DF",
       "nome": "FFF5DF",
       "addr": "Rua ernesto jesse, 155, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
@@ -2110,6 +2260,7 @@
     },
     {
       "id": "bc026efffef46a11",
+      "galaxia_id": "FFF5E2",
       "nome": "FFF5E2",
       "addr": "ALFREDO ALBINO MEINERZ 335",
       "cidade": "SANTA ROSA",
@@ -2124,6 +2275,7 @@
     },
     {
       "id": "bc026efffef46162",
+      "galaxia_id": "FFF5E6",
       "nome": "FFF5E6",
       "addr": "TRAVESSA 7 DE SETEMBRO, 603 SAO LUIZ Gonzaga, RS, Brazil",
       "cidade": "SAO LUIZ GONZAGA",
@@ -2138,6 +2290,7 @@
     },
     {
       "id": "bc026efffef479ed",
+      "galaxia_id": "FFF5FA",
       "nome": "FFF5FA",
       "addr": "R. Fredolino Steffen, 120 - Glória, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
@@ -2152,6 +2305,7 @@
     },
     {
       "id": "bc026efffef47e46",
+      "galaxia_id": "FFF607",
       "nome": "FFF607",
       "addr": "R. Dr. Accioly, 1609 - Central, Santa Rosa - RS, 98900-000",
       "cidade": "SANTA ROSA",
@@ -2166,6 +2320,7 @@
     },
     {
       "id": "bc026efffef47344",
+      "galaxia_id": "FFF61C",
       "nome": "FFF61C",
       "addr": "RUA RUBÍ, 250",
       "cidade": "SANTA ROSA",
@@ -2180,6 +2335,7 @@
     },
     {
       "id": "bc026efffef47996",
+      "galaxia_id": "FFF61D",
       "nome": "FFF61D",
       "addr": "Rua Sao Guido, 150, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
@@ -2194,6 +2350,7 @@
     },
     {
       "id": "bc026efffef4730d",
+      "galaxia_id": "FFF621",
       "nome": "FFF621",
       "addr": "Rua Autria, 320, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
@@ -2208,6 +2365,7 @@
     },
     {
       "id": "bc026efffef47995",
+      "galaxia_id": "FFF65E",
       "nome": "FFF65E",
       "addr": "Rua luiz Lorenzatto, 360, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
@@ -2222,6 +2380,7 @@
     },
     {
       "id": "bc026efffef48744",
+      "galaxia_id": "FFF69C",
       "nome": "FFF69C",
       "addr": "RUA PROTÁSIO NENE 846",
       "cidade": "UNISTALDA",
@@ -2236,6 +2395,7 @@
     },
     {
       "id": "60efabfffee11471",
+      "galaxia_id": "FFF703",
       "nome": "FFF703",
       "addr": "Avenida Simões Lopes Neto 220",
       "cidade": "ALEGRETE",
@@ -2250,6 +2410,7 @@
     },
     {
       "id": "60efabfffee11be2",
+      "galaxia_id": "FFF75F",
       "nome": "FFF75F",
       "addr": "RUA IBISCO, 246",
       "cidade": "TRES DE MAIO",
@@ -2264,6 +2425,7 @@
     },
     {
       "id": "60efabfffef4b72f",
+      "galaxia_id": "FFF7EB",
       "nome": "FFF7EB",
       "addr": "AVENIDA_TIARAJU_3213",
       "cidade": "ALEGRETE",
@@ -2278,6 +2440,7 @@
     },
     {
       "id": "60efabfffef4b731",
+      "galaxia_id": "FFF815",
       "nome": "FFF815",
       "addr": "Tv. Lopes",
       "cidade": "SANTO ANGELO",
@@ -2292,6 +2455,7 @@
     },
     {
       "id": "60efabfffef4b703",
+      "galaxia_id": "FFF817",
       "nome": "FFF817",
       "addr": "R. Erico Verissimo",
       "cidade": "ALEGRETE",
@@ -2306,6 +2470,7 @@
     },
     {
       "id": "60efabfffef4bb9b",
+      "galaxia_id": "FFF81A",
       "nome": "FFF81A",
       "addr": "Rua Osvaldo Aranha 607",
       "cidade": "ITAQUI",
@@ -2320,6 +2485,7 @@
     },
     {
       "id": "60efabfffef4bbc9",
+      "galaxia_id": "FFF81B",
       "nome": "FFF81B",
       "addr": "Rua João Cassel 49, Entre-Ijuís - Rio Grande do Sul, 98855-000, Brasil",
       "cidade": "ENTRE IJUIS",
@@ -2334,6 +2500,7 @@
     },
     {
       "id": "60efabfffef4bbe7",
+      "galaxia_id": "FFF81C",
       "nome": "FFF81C",
       "addr": "RUA_SERGIPE_108",
       "cidade": "ALEGRETE",
@@ -2348,6 +2515,7 @@
     },
     {
       "id": "60efabfffef4b6ff",
+      "galaxia_id": "FFF81D",
       "nome": "FFF81D",
       "addr": "RUA_ABILIA_CARAVAGNO_MEDEIROS_285",
       "cidade": "ALEGRETE",
@@ -2362,6 +2530,7 @@
     },
     {
       "id": "60efabfffef4b724",
+      "galaxia_id": "FFF823",
       "nome": "FFF823",
       "addr": "RUA BURICA 555 - HORIZONTINA",
       "cidade": "HORIZONTINA",
@@ -2376,6 +2545,7 @@
     },
     {
       "id": "60efabfffee12012",
+      "galaxia_id": "FFF824",
       "nome": "FFF824",
       "addr": "RUA HORIZONTINA",
       "cidade": "SANTA ROSA",
@@ -2390,6 +2560,7 @@
     },
     {
       "id": "60efabfffef4b705",
+      "galaxia_id": "FFF825",
       "nome": "FFF825",
       "addr": "AVENIDA_IBICUI_1393",
       "cidade": "MANOEL VIANA",
@@ -2404,6 +2575,7 @@
     },
     {
       "id": "60efabfffef4bbc0",
+      "galaxia_id": "FFF82E",
       "nome": "FFF82E",
       "addr": "RUA ALCIDES FARIAS RIBEIRO, 1278, IZABEL, ALEGRETE",
       "cidade": "ALEGRETE",
@@ -2418,6 +2590,7 @@
     },
     {
       "id": "60efabfffef4bbbe",
+      "galaxia_id": "FFF839",
       "nome": "FFF839",
       "addr": "RUA_ICARO_FERREIRA_DA_COSTA_35",
       "cidade": "ALEGRETE",
@@ -2432,6 +2605,7 @@
     },
     {
       "id": "60efabfffef4bbd5",
+      "galaxia_id": "FFF83C",
       "nome": "FFF83C",
       "addr": "Oswaldo Cruz 761",
       "cidade": "SANTO ANGELO",
@@ -2446,6 +2620,7 @@
     },
     {
       "id": "60efabfffee10c79",
+      "galaxia_id": "FFF87D",
       "nome": "FFF87D",
       "addr": "RUA CABO PEDROSO 742",
       "cidade": "SAO BORJA",
@@ -2460,6 +2635,7 @@
     },
     {
       "id": "60efabfffee1104e",
+      "galaxia_id": "FFF8C9",
       "nome": "FFF8C9",
       "addr": "RUA_SILVEIRA_MARTINS_2331",
       "cidade": "SANTIAGO",
