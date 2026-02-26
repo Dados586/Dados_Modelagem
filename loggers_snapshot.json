@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-26T16:58:10.179700",
+  "generated_at": "2026-02-26T20:15:50.031065",
   "summary": {
     "total": 176,
     "conectados": 132,
-    "desconectados": 33,
+    "desconectados": 35,
     "alarm_baixa": 49,
     "alarm_alta": 12
   },
@@ -11,6 +11,7 @@
     {
       "id": "bc026efffef5f118",
       "nome": "FFE0A2",
+      "addr": "AV. DOUTOR OSVALDO TEIXEIRA, 570",
       "cidade": "TUCUNDUVA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -24,6 +25,7 @@
     {
       "id": "bc026efffef5ec77",
       "nome": "FFE0B2",
+      "addr": "RUA HUMAITÁ 56",
       "cidade": "TENENTE PORTELA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:42:00",
@@ -37,6 +39,7 @@
     {
       "id": "bc026efffef482f0",
       "nome": "FFE1D8",
+      "addr": "Rua Missioneira 578, Santo Ângelo - Rio Grande do Sul, 98801-760, Brasil",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -50,6 +53,7 @@
     {
       "id": "a46dd4fffe4214de",
       "nome": "FFE56B",
+      "addr": "RUA SANTA CRUZ DO SUL 271",
       "cidade": "BARRA DO GUARITA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:49:00",
@@ -63,6 +67,7 @@
     {
       "id": "a46dd4fffe341916",
       "nome": "FFE710",
+      "addr": "Avenida Getúlio Vargas 169, Humaitá - Rio Grande do Sul, 98670-000, Brasil",
       "cidade": "HUMAITA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:34:00",
@@ -76,6 +81,7 @@
     {
       "id": "a46dd4fffe421426",
       "nome": "FFE761",
+      "addr": "RUA VEREADOR ESMELINDRO BATISTA DA SILVEIRA 2195",
       "cidade": "SAO NICOLAU",
       "setor": null,
       "ultima_leitura": "2026-02-18 15:55:00",
@@ -89,6 +95,7 @@
     {
       "id": "bc026efffef5fe0e",
       "nome": "FFE764",
+      "addr": "ROBERTO BERNARDI - 829",
       "cidade": "TENENTE PORTELA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:59:00",
@@ -102,6 +109,7 @@
     {
       "id": "a46dd4fffe421523",
       "nome": "FFE765",
+      "addr": "rua Ernesto Damaceno",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-23 07:31:00",
@@ -115,6 +123,7 @@
     {
       "id": "a46dd4fffe421560",
       "nome": "FFE768",
+      "addr": "Avenida Alceu Duarte de Carvalho 1588, Zamperetti, Santiago - Rio Grande do Sul, 97707-860, Brasil",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:45:00",
@@ -128,6 +137,7 @@
     {
       "id": "a46dd4fffe421493",
       "nome": "FFE769",
+      "addr": "RUA ANDRADE NEVES, 15, CENTRO, QUARAÍ",
       "cidade": "QUARAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:09:00",
@@ -141,6 +151,7 @@
     {
       "id": "a46dd4fffe421533",
       "nome": "FFE76C",
+      "addr": "TRAVESSA ANTONIO CARLOS VIDAL, 22",
       "cidade": "SAO FRANCISCO DE ASSIS",
       "setor": "CENTRAL",
       "ultima_leitura": "2026-02-26 07:51:00",
@@ -154,6 +165,7 @@
     {
       "id": "a46dd4fffe421532",
       "nome": "FFE76D",
+      "addr": "Rua Carlos Gomes 259, Passo, São Borja - Rio Grande do Sul, 97670-000, Brasil",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-23 13:28:00",
@@ -167,6 +179,7 @@
     {
       "id": "a46dd4fffe42147b",
       "nome": "FFE770",
+      "addr": "Rua Miguel Kaminski 1255",
       "cidade": "GUARANI DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-24 22:00:00",
@@ -180,6 +193,7 @@
     {
       "id": "a46dd4fffe4214a1",
       "nome": "FFE771",
+      "addr": "MANUTENÇÃO",
       "cidade": "TENENTE PORTELA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -193,19 +207,21 @@
     {
       "id": "a46dd4fffe42152d",
       "nome": "FFE77E",
+      "addr": "Rua Amadeu do Prado Malmann, 250, Tuparendi",
       "cidade": "TUPARENDI",
       "setor": null,
       "ultima_leitura": "2026-02-22 18:49:00",
       "pressao": 12.3,
       "bateria": null,
       "rssi": null,
-      "dias_sem_comunicar": 3,
-      "status": "atencao",
+      "dias_sem_comunicar": 4,
+      "status": "desconectado",
       "alarme": null
     },
     {
       "id": "a46dd4fffe4214c5",
       "nome": "FFE77F",
+      "addr": "rua sargento Pedro krinski 362",
       "cidade": "GUARANI DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:50:00",
@@ -219,6 +235,7 @@
     {
       "id": "a46dd4fffe4214ad",
       "nome": "FFE780",
+      "addr": "Poço BOS06",
       "cidade": "BOSSOROCA",
       "setor": null,
       "ultima_leitura": "2026-02-18 12:25:00",
@@ -232,6 +249,7 @@
     {
       "id": "a46dd4fffe421504",
       "nome": "FFE784",
+      "addr": "MAXIMILIANO - 1376",
       "cidade": "CERRO LARGO",
       "setor": null,
       "ultima_leitura": "2026-02-21 14:24:00",
@@ -245,6 +263,7 @@
     {
       "id": "a46dd4fffe4214a5",
       "nome": "FFE78A",
+      "addr": "Presidente Getúlio Vargas 1645",
       "cidade": "CHIAPETTA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:54:00",
@@ -258,6 +277,7 @@
     {
       "id": "bc026efffef5fe27",
       "nome": "FFE79C",
+      "addr": "RUA SILVA JARDIM, 1665",
       "cidade": "SAO FRANCISCO DE ASSIS",
       "setor": "CENTRAL",
       "ultima_leitura": "2026-02-26 07:52:00",
@@ -271,6 +291,7 @@
     {
       "id": "a46dd4fffe4214b7",
       "nome": "FFE7A5",
+      "addr": "Av Ipiranga n 675",
       "cidade": "CHIAPETTA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:57:00",
@@ -284,6 +305,7 @@
     {
       "id": "a46dd4fffe42154a",
       "nome": "FFE7AA",
+      "addr": "Rua Francisco Koltermann 2271, Itachere, São Borja - Rio Grande do Sul, 97670-000, Brasil",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:58:00",
@@ -297,6 +319,7 @@
     {
       "id": "a46dd4fffe4214ba",
       "nome": "FFE7AE",
+      "addr": "Rua Armindo Engers, 197, Porto Xavier",
       "cidade": "PORTO XAVIER",
       "setor": null,
       "ultima_leitura": "2026-02-16 13:12:00",
@@ -310,6 +333,7 @@
     {
       "id": "a46dd4fffe4214fb",
       "nome": "FFE7B0",
+      "addr": "RUA SANTA ROSA, 148, TUPARENDI RS",
       "cidade": "TUPARENDI",
       "setor": null,
       "ultima_leitura": "2026-02-20 16:35:00",
@@ -323,6 +347,7 @@
     {
       "id": "a46dd4fffe4214b6",
       "nome": "FFE7B3",
+      "addr": "Rua 20 de setembro 1301",
       "cidade": "SAO VICENTE DO SUL",
       "setor": "DESCONECTADO ",
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -336,6 +361,7 @@
     {
       "id": "a46dd4fffe42155d",
       "nome": "FFE7C0",
+      "addr": "Av. Perimetral",
       "cidade": "TRES PASSOS",
       "setor": null,
       "ultima_leitura": "2026-02-24 12:32:00",
@@ -349,6 +375,7 @@
     {
       "id": "a46dd4fffe421547",
       "nome": "FFE7DB",
+      "addr": "RUA PINHEIRO ROCHA, 1128",
       "cidade": "SAO FRANCISCO DE ASSIS",
       "setor": "SAA SFA",
       "ultima_leitura": "2026-02-26 07:57:00",
@@ -362,19 +389,21 @@
     {
       "id": "bc026efffef5fe09",
       "nome": "FFE7E3",
+      "addr": "Rua conde de Porto alegre - 116",
       "cidade": "CERRO LARGO",
       "setor": null,
       "ultima_leitura": "2026-02-14 17:07:00",
       "pressao": 7.2,
       "bateria": null,
       "rssi": null,
-      "dias_sem_comunicar": 11,
+      "dias_sem_comunicar": 12,
       "status": "desconectado",
       "alarme": "baixa"
     },
     {
       "id": "a46dd4fffe421566",
       "nome": "FFE7E5",
+      "addr": "Rua 7 de Setembro 1451",
       "cidade": "SAO VICENTE DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:56:00",
@@ -388,6 +417,7 @@
     {
       "id": "a46dd4fffe42149b",
       "nome": "FFE7EF",
+      "addr": "RUA NILO PEÇANHA",
       "cidade": "HUMAITA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:59:00",
@@ -401,6 +431,7 @@
     {
       "id": "bc026efffef5fe0c",
       "nome": "FFE7FE",
+      "addr": "AV. DO COMÉRCIO, 1289",
       "cidade": "SANTO AUGUSTO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -414,6 +445,7 @@
     {
       "id": "bc026efffef5f992",
       "nome": "FFE861",
+      "addr": "RUA PEDRO PELIZARI, 225",
       "cidade": "JAGUARI",
       "setor": "SAA JAGUARI",
       "ultima_leitura": "2026-02-26 08:01:00",
@@ -427,6 +459,7 @@
     {
       "id": "bc026efffef5f9bb",
       "nome": "FFE87C",
+      "addr": "AV. PORTO ALEGRE, 222",
       "cidade": "DERRUBADAS",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:51:00",
@@ -440,6 +473,7 @@
     {
       "id": "bc026efffef5f98d",
       "nome": "FFE8B6",
+      "addr": "RUA GUAPORÉ 1035",
       "cidade": "SANTA ROSA",
       "setor": "BASE",
       "ultima_leitura": "2026-11-02 21:00:00",
@@ -453,19 +487,21 @@
     {
       "id": "bc026efffef5f5c2",
       "nome": "FFE8BC",
+      "addr": "AV. CENTRAL 1703",
       "cidade": "SANTO AUGUSTO",
       "setor": null,
       "ultima_leitura": "2026-12-02 18:46:00",
       "pressao": 0.0,
       "bateria": null,
       "rssi": null,
-      "dias_sem_comunicar": -280,
+      "dias_sem_comunicar": -279,
       "status": "conectado",
       "alarme": "baixa"
     },
     {
       "id": "bc026efffef5f9a2",
       "nome": "FFE8C3",
+      "addr": "AV. 9 DE MAIO",
       "cidade": "VISTA GAUCHA",
       "setor": null,
       "ultima_leitura": "2026-01-28 16:28:00",
@@ -479,6 +515,7 @@
     {
       "id": "bc026efffef5f5e3",
       "nome": "FFE8C6",
+      "addr": "AV. PORTO ALEGRE, 1202",
       "cidade": "DERRUBADAS",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:40:00",
@@ -492,6 +529,7 @@
     {
       "id": "bc026efffef5f5c6",
       "nome": "FFE8C8",
+      "addr": "RUA SANTA ANA",
       "cidade": "CAMPINA DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:42:00",
@@ -505,6 +543,7 @@
     {
       "id": "bc026efffef5f5ee",
       "nome": "FFE8D2",
+      "addr": "REINALDO FRANCKE SCHITTLER",
       "cidade": "CANDIDO GODOI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:57:00",
@@ -518,6 +557,7 @@
     {
       "id": "bc026efffef5f5c4",
       "nome": "FFE8DA",
+      "addr": "PREF. JOSÉ NUNES DE ABREU 7444",
       "cidade": "SANTO ANTONIO DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:00:00",
@@ -531,6 +571,7 @@
     {
       "id": "bc026efffef5f5f4",
       "nome": "FFE8DF",
+      "addr": "RS 520 - 198",
       "cidade": "INHACORA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -544,6 +585,7 @@
     {
       "id": "bc026efffef5fde0",
       "nome": "FFE8F1",
+      "addr": "Travessa José Azzi",
       "cidade": "GIRUA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:55:00",
@@ -557,6 +599,7 @@
     {
       "id": "bc026efffef5fddf",
       "nome": "FFE8FA",
+      "addr": "RUA PORTO LUCENA, 302",
       "cidade": "PORTO LUCENA",
       "setor": null,
       "ultima_leitura": "2026-02-24 11:08:00",
@@ -570,6 +613,7 @@
     {
       "id": "bc026efffef5f9d7",
       "nome": "FFE903",
+      "addr": "RS-468",
       "cidade": "TIRADENTES DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:48:00",
@@ -583,6 +627,7 @@
     {
       "id": "bc026efffef5f119",
       "nome": "FFE921",
+      "addr": "R. PRES. MÉDICI",
       "cidade": "CANDIDO GODOI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:58:00",
@@ -596,6 +641,7 @@
     {
       "id": "bc026efffef5f139",
       "nome": "FFE923",
+      "addr": "AV. ALBERTO PASQUALINI, 15",
       "cidade": "BRAGA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
@@ -609,6 +655,7 @@
     {
       "id": "bc026efffef5f0fa",
       "nome": "FFE925",
+      "addr": "NOSSA SENHORA DAS GRAÇAS",
       "cidade": "TIRADENTES DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -622,6 +669,7 @@
     {
       "id": "bc026efffef5f5ad",
       "nome": "FFE927",
+      "addr": "RUA CHILE, 21",
       "cidade": "PORTO LUCENA",
       "setor": null,
       "ultima_leitura": "2026-02-25 21:55:00",
@@ -635,6 +683,7 @@
     {
       "id": "bc026efffef5f5b1",
       "nome": "FFE938",
+      "addr": "RUA ROSA 14",
       "cidade": "MIRAGUAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:02:00",
@@ -648,6 +697,7 @@
     {
       "id": "bc026efffef5f151",
       "nome": "FFE942",
+      "addr": "RUA DORIVAL GONÇALVES 564",
       "cidade": "SANTO ANTONIO DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-11-02 15:42:00",
@@ -661,6 +711,7 @@
     {
       "id": "bc026efffef5f5ba",
       "nome": "FFE947",
+      "addr": "RUA SÃO PAULO 60",
       "cidade": "MIRAGUAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:46:00",
@@ -674,6 +725,7 @@
     {
       "id": "bc026efffef5f137",
       "nome": "FFE948",
+      "addr": "ESTRADA SEM NOME",
       "cidade": "CAIBATE",
       "setor": null,
       "ultima_leitura": "2026-02-21 06:40:00",
@@ -687,6 +739,7 @@
     {
       "id": "bc026efffef5f12b",
       "nome": "FFE94A",
+      "addr": "TREVO RS 529",
       "cidade": "MACAMBARA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -700,6 +753,7 @@
     {
       "id": "bc026efffef5f5a7",
       "nome": "FFE94E",
+      "addr": "RUA ANTONIO NETO, 3059",
       "cidade": "ITAQUI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:37:00",
@@ -713,6 +767,7 @@
     {
       "id": "bc026efffef5f145",
       "nome": "FFE953",
+      "addr": "RUA JULIO DE CASTILHOS 1340",
       "cidade": "SAO NICOLAU",
       "setor": null,
       "ultima_leitura": "2026-02-17 11:07:00",
@@ -726,6 +781,7 @@
     {
       "id": "bc026efffef5f5ac",
       "nome": "FFE954",
+      "addr": "Rua Dionísio Araújo, s/n, Inhame - BOS02",
       "cidade": "BOSSOROCA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:00:00",
@@ -739,6 +795,7 @@
     {
       "id": "bc026efffef5f14e",
       "nome": "FFE95D",
+      "addr": "RUA ALBERTO PASQUALINI 30",
       "cidade": "BARRA DO GUARITA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:46:00",
@@ -752,6 +809,7 @@
     {
       "id": "bc026efffef5f5bb",
       "nome": "FFE95F",
+      "addr": "Rua Pedro romano Nedel, 154",
       "cidade": "CAMPINA DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -765,6 +823,7 @@
     {
       "id": "bc026efffef5f5b5",
       "nome": "FFE96C",
+      "addr": "RUA FELICIO ZORZAN",
       "cidade": "INHACORA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:48:00",
@@ -778,6 +837,7 @@
     {
       "id": "bc026efffef5ec7d",
       "nome": "FFE994",
+      "addr": "RUA WILLI TAUBE",
       "cidade": "PORTO XAVIER",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:47:00",
@@ -791,6 +851,7 @@
     {
       "id": "bc026efffef5ec75",
       "nome": "FFE995",
+      "addr": "AV. SALVADOR PINHEIRO MACHADO 1399",
       "cidade": "SAO LUIZ GONZAGA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:53:00",
@@ -804,6 +865,7 @@
     {
       "id": "bc026efffef5f130",
       "nome": "FFE99A",
+      "addr": "RUA MINAS GERAIS -  ACESSO AO COLEGIO LEOPOLDO AMES",
       "cidade": "SANTO CRISTO",
       "setor": null,
       "ultima_leitura": "2026-02-19 04:36:00",
@@ -817,6 +879,7 @@
     {
       "id": "bc026efffef5f110",
       "nome": "FFE9B1",
+      "addr": "Av Brasil 3081 Boa Vista do Buricá -RS",
       "cidade": "BOA VISTA DO BURICA",
       "setor": "-",
       "ultima_leitura": "2026-02-19 11:06:00",
@@ -830,6 +893,7 @@
     {
       "id": "bc026efffef5f114",
       "nome": "FFE9B2",
+      "addr": "BR 377 - PROXIMO AO TREVO",
       "cidade": "QUARAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:45:00",
@@ -843,6 +907,7 @@
     {
       "id": "bc026efffef5f11a",
       "nome": "FFE9B3",
+      "addr": "RUA AGENOR JACINTO DA SILVA, 293",
       "cidade": "PORTO XAVIER",
       "setor": null,
       "ultima_leitura": "2025-12-16 16:36:00",
@@ -856,6 +921,7 @@
     {
       "id": "bc026efffef5f116",
       "nome": "FFE9B4",
+      "addr": "R. ZEFERINO BRASIL",
       "cidade": "TRES PASSOS",
       "setor": null,
       "ultima_leitura": "2026-02-25 12:12:00",
@@ -869,6 +935,7 @@
     {
       "id": "bc026efffef5f0f2",
       "nome": "FFE9B6",
+      "addr": "Rua Ignácio Pinto 1044 Independência-RS",
       "cidade": "INDEPENDENCIA",
       "setor": null,
       "ultima_leitura": "2026-02-22 14:43:00",
@@ -882,6 +949,7 @@
     {
       "id": "bc026efffef5f13c",
       "nome": "FFE9B9",
+      "addr": "RUA CASTELO BRANCO",
       "cidade": "ALECRIM",
       "setor": null,
       "ultima_leitura": "2026-02-22 21:18:00",
@@ -895,6 +963,7 @@
     {
       "id": "bc026efffef5f115",
       "nome": "FFE9BB",
+      "addr": "Rua João  Bordim, 215",
       "cidade": "PORTO LUCENA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:50:00",
@@ -908,6 +977,7 @@
     {
       "id": "bc026efffef5f123",
       "nome": "FFE9BE",
+      "addr": "AV. PREF. JOSÉ EUGÊNIO RAUBER - 884",
       "cidade": "ALECRIM",
       "setor": "----",
       "ultima_leitura": "2026-02-13 02:56:00",
@@ -921,6 +991,7 @@
     {
       "id": "bc026efffef5eca0",
       "nome": "FFE9C0",
+      "addr": "Rua vitorio Dezorzi 156, Crissiumal",
       "cidade": "CRISSIUMAL",
       "setor": null,
       "ultima_leitura": "2026-12-02 02:24:00",
@@ -934,6 +1005,7 @@
     {
       "id": "bc026efffef5ec8d",
       "nome": "FFE9C1",
+      "addr": "Rua capitão Torquato de Araújo - 565",
       "cidade": "SEDE NOVA",
       "setor": null,
       "ultima_leitura": "2026-11-02 13:34:00",
@@ -947,6 +1019,7 @@
     {
       "id": "bc026efffef5f0f3",
       "nome": "FFE9C3",
+      "addr": "Rua Salzano Vieira da Cunha 200 Boa Vista do Buricá -RS",
       "cidade": "BOA VISTA DO BURICA",
       "setor": null,
       "ultima_leitura": "2026-02-16 21:57:00",
@@ -960,6 +1033,7 @@
     {
       "id": "bc026efffef5ec84",
       "nome": "FFE9C7",
+      "addr": "Avenida José de Alençar, 1163",
       "cidade": "TRES PASSOS",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:56:00",
@@ -973,6 +1047,7 @@
     {
       "id": "bc026efffef5f0f9",
       "nome": "FFE9C9",
+      "addr": "AV. PRES. VARGAS, 281",
       "cidade": "CORONEL BICACO",
       "setor": null,
       "ultima_leitura": "2026-02-19 09:05:00",
@@ -986,6 +1061,7 @@
     {
       "id": "bc026efffef5f0fd",
       "nome": "FFE9CA",
+      "addr": "RUA DR.AGRIPINO DE ARAUJO,210",
       "cidade": "ROSARIO DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
@@ -999,19 +1075,21 @@
     {
       "id": "bc026efffef5ec99",
       "nome": "FFE9CB",
+      "addr": "RUA VEREADOR ASSMANN - 791",
       "cidade": "SANTO CRISTO",
       "setor": null,
       "ultima_leitura": "2026-11-02 17:59:00",
       "pressao": 8.4,
       "bateria": null,
       "rssi": null,
-      "dias_sem_comunicar": -250,
+      "dias_sem_comunicar": -249,
       "status": "conectado",
       "alarme": "baixa"
     },
     {
       "id": "bc026efffef5f0f5",
       "nome": "FFE9CC",
+      "addr": "RUA JOAO VIELMO, 1409 - POÇO NES 03",
       "cidade": "NOVA ESPERANCA DO SUL",
       "setor": "SAA NOVA ESPERANCA DO SUL",
       "ultima_leitura": "2026-02-24 03:42:00",
@@ -1025,6 +1103,7 @@
     {
       "id": "bc026efffef5eca1",
       "nome": "FFE9D0",
+      "addr": "RUA QUINZE DE MAIO - 1023",
       "cidade": "CAIBATE",
       "setor": null,
       "ultima_leitura": "2026-12-02 06:36:00",
@@ -1038,6 +1117,7 @@
     {
       "id": "bc026efffef5f103",
       "nome": "FFE9D1",
+      "addr": "Rua São Miguel 952 Independência-RS",
       "cidade": "INDEPENDENCIA",
       "setor": null,
       "ultima_leitura": "2026-02-20 13:12:00",
@@ -1051,6 +1131,7 @@
     {
       "id": "bc026efffef5ec97",
       "nome": "FFE9D4",
+      "addr": "Rua São João, 1120",
       "cidade": "SAO MIGUEL DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-02-17 09:06:00",
@@ -1064,6 +1145,7 @@
     {
       "id": "bc026efffef5ec98",
       "nome": "FFE9D6",
+      "addr": "Rua Cacildo João Fla 35 São Martinho -RS",
       "cidade": "SAO MARTINHO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:00:00",
@@ -1077,6 +1159,7 @@
     {
       "id": "bc026efffef5ec9a",
       "nome": "FFE9D7",
+      "addr": "Rua Alfredo Leopoldo Traesel 107 São Martinho -RS",
       "cidade": "SAO MARTINHO",
       "setor": null,
       "ultima_leitura": "2026-02-23 13:48:00",
@@ -1090,6 +1173,7 @@
     {
       "id": "bc026efffef5f101",
       "nome": "FFE9DA",
+      "addr": "Rua Duque De Caxias 397, Tucunduva - Rio Grande do Sul, 98930-000, Brasil",
       "cidade": "TUCUNDUVA",
       "setor": null,
       "ultima_leitura": "2026-01-27 12:37:00",
@@ -1103,6 +1187,7 @@
     {
       "id": "bc026efffef5aa96",
       "nome": "FFE9E5",
+      "addr": "RUA SÃO BERNARDO, 611",
       "cidade": "BOA VISTA DO BURICA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:02:00",
@@ -1116,19 +1201,21 @@
     {
       "id": "bc026efffef5b0c6",
       "nome": "FFE9E6",
+      "addr": "R. DUQUE DE CAXIAS",
       "cidade": "HUMAITA",
       "setor": null,
       "ultima_leitura": "2026-02-25 18:32:00",
       "pressao": 19.9,
       "bateria": null,
       "rssi": -120.38996093349682,
-      "dias_sem_comunicar": 0,
+      "dias_sem_comunicar": 1,
       "status": "conectado",
       "alarme": null
     },
     {
       "id": "bc026efffef5b4d4",
       "nome": "FFE9E8",
+      "addr": "SÃO NICOLAU - 730",
       "cidade": "SAO MIGUEL DAS MISSOES",
       "setor": null,
       "ultima_leitura": "2026-01-21 08:22:00",
@@ -1142,6 +1229,7 @@
     {
       "id": "bc026efffef56eef",
       "nome": "FFE9EA",
+      "addr": "Rua Santa Clara 724  São José do Inhacorá-RS",
       "cidade": "SAO JOSE DO INHACORA",
       "setor": null,
       "ultima_leitura": "2026-09-02 07:04:00",
@@ -1155,19 +1243,21 @@
     {
       "id": "bc026efffef582c7",
       "nome": "FFE9EC",
+      "addr": "RUA AIMORÉ 621",
       "cidade": "GIRUA",
       "setor": null,
       "ultima_leitura": "2026-02-22 19:08:00",
       "pressao": 7.6,
       "bateria": null,
       "rssi": null,
-      "dias_sem_comunicar": 3,
-      "status": "atencao",
+      "dias_sem_comunicar": 4,
+      "status": "desconectado",
       "alarme": "baixa"
     },
     {
       "id": "bc026efffef5e2c3",
       "nome": "RUA_JOSE_RAMOS_LOPES_86\t",
+      "addr": "Rua Vereador Carbonel - 309",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:58:00",
@@ -1181,6 +1271,7 @@
     {
       "id": "bc026efffef5b4d2",
       "nome": "FFEC24",
+      "addr": "ESTR.",
       "cidade": "CORONEL BICACO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:01:00",
@@ -1194,6 +1285,7 @@
     {
       "id": "bc026efffef5ad1c",
       "nome": "FFEC49",
+      "addr": "R. A, 238",
       "cidade": "REDENTORA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -1207,6 +1299,7 @@
     {
       "id": "bc026efffef58be6",
       "nome": "FFEC55",
+      "addr": "Rua Neri Gomes Peixoto 338, Nei Pereira, Santiago - Rio Grande do Sul, 97701-030, Brasil",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:09:00",
@@ -1220,6 +1313,7 @@
     {
       "id": "bc026efffef5e639",
       "nome": "FFECC2",
+      "addr": "HOTEL SOLAR FLORES, BR 290",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -1233,6 +1327,7 @@
     {
       "id": "bc026efffef5aa9a",
       "nome": "FFECDF",
+      "addr": "EUGENIO CORREA",
       "cidade": "SEDE NOVA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -1246,6 +1341,7 @@
     {
       "id": "bc026efffef547db",
       "nome": "FFECE8",
+      "addr": "R. LARANJEIRAS",
       "cidade": "CRISSIUMAL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:05:00",
@@ -1259,6 +1355,7 @@
     {
       "id": "bc026efffef5d0bf",
       "nome": "FFED7E",
+      "addr": "Rua Flores da Cunha 775, Santiago Pompeu, Santiago - Rio Grande do Sul, 97701-239, Brasil",
       "cidade": "SANTIAGO",
       "setor": "----",
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1272,6 +1369,7 @@
     {
       "id": "bc026efffef5ad3d",
       "nome": "FFEDA8",
+      "addr": "RUA JULIO DE CASTILHOS 712",
       "cidade": "INDEPENDENCIA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:44:00",
@@ -1285,6 +1383,7 @@
     {
       "id": "bc026efffef5ad2e",
       "nome": "FFEDD2",
+      "addr": "R. ACELINO LUTZ PINHEIRO, 1070",
       "cidade": "REDENTORA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:58:00",
@@ -1298,6 +1397,7 @@
     {
       "id": "bc026efffef46e84",
       "nome": "FFEE0A",
+      "addr": "RUA_JOAO_FAGUNDES_S/N_POCO_BOS_06",
       "cidade": "MAURICIO CARDOSO",
       "setor": null,
       "ultima_leitura": "2026-02-24 02:38:00",
@@ -1311,6 +1411,7 @@
     {
       "id": "bc026efffef5ad12",
       "nome": "FFEE0C",
+      "addr": "RUA OSVALDO ARANHA",
       "cidade": "CACEQUI",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:49:00",
@@ -1324,6 +1425,7 @@
     {
       "id": "bc026efffef5ad1f",
       "nome": "FFEE12",
+      "addr": "AV. CAMPOS SALES, 481",
       "cidade": "BRAGA",
       "setor": "Manutenção",
       "ultima_leitura": "2026-02-26 07:58:00",
@@ -1337,6 +1439,7 @@
     {
       "id": "bc026efffef5ad2b",
       "nome": "FFEE15",
+      "addr": "Av. Castelo Branco",
       "cidade": "BOM PROGRESSO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -1350,6 +1453,7 @@
     {
       "id": "bc026efffef5ad2d",
       "nome": "FFEE1D",
+      "addr": "R. Caraíba, 116",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-19 10:55:00",
@@ -1363,6 +1467,7 @@
     {
       "id": "bc026efffef5aa89",
       "nome": "MANUTENÇÃO",
+      "addr": "AV. CASTELO BRANCO - CIMA",
       "cidade": "BOM PROGRESSO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:55:00",
@@ -1376,6 +1481,7 @@
     {
       "id": "bc026efffef5daab",
       "nome": "FFEE33",
+      "addr": "RUA SAO JOAO, 30",
       "cidade": "TRES DE MAIO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -1389,6 +1495,7 @@
     {
       "id": "bc026efffef5b87b",
       "nome": "FFEF0B",
+      "addr": "Roberto Krobss 177",
       "cidade": "CACEQUI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -1402,6 +1509,7 @@
     {
       "id": "bc026efffef5b07f",
       "nome": "FFEF0C",
+      "addr": "RUA PROTÁSIO NENE 724",
       "cidade": "UNISTALDA",
       "setor": null,
       "ultima_leitura": "2025-12-30 09:43:00",
@@ -1415,6 +1523,7 @@
     {
       "id": "bc026efffef5436f",
       "nome": "FFEF28",
+      "addr": "Benjamim Constant 1506",
       "cidade": "SAO LUIZ GONZAGA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:52:00",
@@ -1428,6 +1537,7 @@
     {
       "id": "bc026efffef5b883",
       "nome": "FFEF67",
+      "addr": "RUA WILSON PIRES GAVIÃO",
       "cidade": "MACAMBARA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:43:00",
@@ -1441,6 +1551,7 @@
     {
       "id": "bc026efffef60117",
       "nome": "FFF05B",
+      "addr": "RUA_JOAO_EVANGELISTA_1085",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1454,6 +1565,7 @@
     {
       "id": "bc026efffef5cab4",
       "nome": "FFF06D",
+      "addr": "RESERVATORIO_02",
       "cidade": "MANOEL VIANA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1467,6 +1579,7 @@
     {
       "id": "bc026efffef5c39d",
       "nome": "FFF074",
+      "addr": "RUA_ISIDORO_AURELIO_222",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:12:00",
@@ -1480,19 +1593,21 @@
     {
       "id": "bc026efffef5aa9e",
       "nome": "FFF081",
+      "addr": "Rua Júlio de Castilhos 6107",
       "cidade": "SAO LUIZ GONZAGA",
       "setor": null,
       "ultima_leitura": "2026-02-16 18:28:00",
       "pressao": 23.9,
       "bateria": null,
       "rssi": -122.85388470809491,
-      "dias_sem_comunicar": 9,
+      "dias_sem_comunicar": 10,
       "status": "desconectado",
       "alarme": null
     },
     {
       "id": "bc026efffef5c389",
       "nome": "FFF096",
+      "addr": "RUA_BENJAMIN_DUARTE_CAMARGO",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:03:00",
@@ -1506,6 +1621,7 @@
     {
       "id": "bc026efffef5caac",
       "nome": "FFF09C",
+      "addr": "RUA FLORES DA CUNHA",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:12:00",
@@ -1519,6 +1635,7 @@
     {
       "id": "bc026efffef5bcc6",
       "nome": "FFF0BE",
+      "addr": "RUA_HONORIO_LEMES_1572",
       "cidade": "MANOEL VIANA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1532,6 +1649,7 @@
     {
       "id": "bc026efffef5c394",
       "nome": "FFF0F7",
+      "addr": "Rua Santa Maria 1198, Medianeira, Alegrete - Rio Grande do Sul, 97543-510, Brasil",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:12:00",
@@ -1545,6 +1663,7 @@
     {
       "id": "bc026efffef5c705",
       "nome": "FFF106",
+      "addr": "PRACA_GETULIO_VARGAS_112",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:03:00",
@@ -1558,6 +1677,7 @@
     {
       "id": "bc026efffef5c347",
       "nome": "FFF13B",
+      "addr": "Rua Constantino Da Costa Leite 1",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:03:00",
@@ -1571,6 +1691,7 @@
     {
       "id": "bc026efffef5c35e",
       "nome": "FFF14A",
+      "addr": "RUA_PANDIA_CALOGERA_381",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
@@ -1584,6 +1705,7 @@
     {
       "id": "bc026efffef46188",
       "nome": "FFF22D",
+      "addr": "AV. FARROUPILHA",
       "cidade": "TRES PASSOS",
       "setor": null,
       "ultima_leitura": "2026-02-20 01:33:00",
@@ -1597,6 +1719,7 @@
     {
       "id": "bc026efffef49e13",
       "nome": "FFF243",
+      "addr": "RUA_SEM_DENOMINAÇÃO_931",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -1610,6 +1733,7 @@
     {
       "id": "bc026efffef49e0f",
       "nome": "FFF246",
+      "addr": "RUA SAO FRANCISCO - 3773",
       "cidade": "ROSARIO DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -1623,6 +1747,7 @@
     {
       "id": "bc026efffef49df9",
       "nome": "FFF24B",
+      "addr": "RUA SANTO AUGUSTO, 528",
       "cidade": "HORIZONTINA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:05:00",
@@ -1636,6 +1761,7 @@
     {
       "id": "bc026efffef47315",
       "nome": "FFF253",
+      "addr": "RUA_6_NUMERO_10",
       "cidade": "BARRA DO QUARAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
@@ -1649,6 +1775,7 @@
     {
       "id": "bc026efffef46675",
       "nome": "FFF29E",
+      "addr": "Av. Castelo Branco, 19 - Cohab, Itaqui - RS, 97650-000",
       "cidade": "ITAQUI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1662,6 +1789,7 @@
     {
       "id": "bc026efffef38758",
       "nome": "FFF2A1",
+      "addr": "RUA PEDRO GERALDO SANTOS 527",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:03:00",
@@ -1675,6 +1803,7 @@
     {
       "id": "bc026efffef45d12",
       "nome": "FFF2AA",
+      "addr": "RUA_TAQUARA_799",
       "cidade": "ROSARIO DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1688,6 +1817,7 @@
     {
       "id": "bc026efffef48336",
       "nome": "FFF2D4",
+      "addr": "Rua Nicolau Ribeiro da Rocha, 192",
       "cidade": "CAMPO NOVO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:05:00",
@@ -1701,6 +1831,7 @@
     {
       "id": "bc026efffef48757",
       "nome": "FFF2F5",
+      "addr": "Rua 15 de Novembro",
       "cidade": "MAURICIO CARDOSO",
       "setor": null,
       "ultima_leitura": "2026-10-02 01:33:00",
@@ -1714,6 +1845,7 @@
     {
       "id": "bc026efffef45d68",
       "nome": "FFF327",
+      "addr": "RUA CORONEL JACINTO PEREIRA ,1521",
       "cidade": "DOM PEDRITO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:12:00",
@@ -1727,6 +1859,7 @@
     {
       "id": "bc026efffef45d52",
       "nome": "FFF353",
+      "addr": "R. ANDRÉ LACHNOFF",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
@@ -1740,19 +1873,21 @@
     {
       "id": "bc026efffef48745",
       "nome": "FFF358",
+      "addr": "RUA GENERAL OSORIO",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-14 19:46:00",
       "pressao": 4.8,
       "bateria": 3318.0,
       "rssi": -119.39921273537995,
-      "dias_sem_comunicar": 11,
+      "dias_sem_comunicar": 12,
       "status": "desconectado",
       "alarme": "baixa"
     },
     {
       "id": "bc026efffef46a30",
       "nome": "FFF363",
+      "addr": "R. JOAQUIM NABUCO",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1766,6 +1901,7 @@
     {
       "id": "bc026efffef47345",
       "nome": "FFF379",
+      "addr": "RUA_MOREIRA_CEZAR_ESQUINA_RUA_21_DE_ABRIL",
       "cidade": "DOM PEDRITO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -1779,6 +1915,7 @@
     {
       "id": "bc026efffef482f7",
       "nome": "FFF39D",
+      "addr": "ESTRADA_TRANQUILINO_COGO_1417",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-15 04:28:00",
@@ -1792,6 +1929,7 @@
     {
       "id": "bc026efffef479e7",
       "nome": "FFF3BC",
+      "addr": "TRAVESSA_ALAN_KARDEC_97",
       "cidade": "ITAQUI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1805,6 +1943,7 @@
     {
       "id": "bc026efffef47e45",
       "nome": "FFF3C8",
+      "addr": "Rua Gaspar Da S. Martins 773, Santo Ângelo - Rio Grande do Sul, 98801-130, Brasil",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -1818,6 +1957,7 @@
     {
       "id": "bc026efffef4873a",
       "nome": "FFF3C9",
+      "addr": "RUA PETIT JEAN, 5014",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1831,6 +1971,7 @@
     {
       "id": "bc026efffef4831d",
       "nome": "FFF3E2",
+      "addr": "Duque de Caxias, 3267",
       "cidade": "DOM PEDRITO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:34:00",
@@ -1844,6 +1985,7 @@
     {
       "id": "bc026efffef469ff",
       "nome": "FFF430",
+      "addr": "R. Cap. Onófre Rodrigues, 173 - Campo Novo, RS, 98570-000",
       "cidade": "CAMPO NOVO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1857,6 +1999,7 @@
     {
       "id": "bc026efffef479a3",
       "nome": "FFF435",
+      "addr": "Rua São Carlos 143, Santo Ângelo - Rio Grande do Sul, 98804-370, Brasil",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:48:00",
@@ -1870,6 +2013,7 @@
     {
       "id": "bc026efffef479bc",
       "nome": "FFF46E",
+      "addr": "RUA_15_DE_NOVEMBRO_1520",
       "cidade": "ROSARIO DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:02:00",
@@ -1883,6 +2027,7 @@
     {
       "id": "bc026efffef47e9f",
       "nome": "FFF515",
+      "addr": "RUA SETE DE SETEMBRO 2408",
       "cidade": "ROSARIO DO SUL",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -1896,6 +2041,7 @@
     {
       "id": "bc026efffef47e9c",
       "nome": "FFF517",
+      "addr": "RUA_VILA_NOVA_1267",
       "cidade": "BARRA DO QUARAI",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1909,6 +2055,7 @@
     {
       "id": "bc026efffef38755",
       "nome": "FFF569",
+      "addr": "Rua Otaciliio Vezzosi 278, Vila Nova, Manoel Viana - Rio Grande do Sul, 97640-000, Brasil",
       "cidade": "MANOEL VIANA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -1922,6 +2069,7 @@
     {
       "id": "bc026efffef4619e",
       "nome": "FFF5DA",
+      "addr": "Rua Horácio Pedroso 263",
       "cidade": "ENTRE IJUIS",
       "setor": null,
       "ultima_leitura": "2026-02-20 12:36:00",
@@ -1935,6 +2083,7 @@
     {
       "id": "bc026efffef45d34",
       "nome": "FFF5DE",
+      "addr": "RUA JOSÉ GOMES PORTINHO",
       "cidade": "TRES PASSOS",
       "setor": null,
       "ultima_leitura": "2026-01-02 06:28:00",
@@ -1948,6 +2097,7 @@
     {
       "id": "bc026efffef46a1b",
       "nome": "FFF5DF",
+      "addr": "Rua ernesto jesse, 155, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-25 14:13:00",
@@ -1961,6 +2111,7 @@
     {
       "id": "bc026efffef46a11",
       "nome": "FFF5E2",
+      "addr": "ALFREDO ALBINO MEINERZ 335",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-11-02 13:06:00",
@@ -1974,6 +2125,7 @@
     {
       "id": "bc026efffef46162",
       "nome": "FFF5E6",
+      "addr": "TRAVESSA 7 DE SETEMBRO, 603 SAO LUIZ Gonzaga, RS, Brazil",
       "cidade": "SAO LUIZ GONZAGA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -1987,6 +2139,7 @@
     {
       "id": "bc026efffef479ed",
       "nome": "FFF5FA",
+      "addr": "R. Fredolino Steffen, 120 - Glória, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:02:00",
@@ -2000,6 +2153,7 @@
     {
       "id": "bc026efffef47e46",
       "nome": "FFF607",
+      "addr": "R. Dr. Accioly, 1609 - Central, Santa Rosa - RS, 98900-000",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -2013,6 +2167,7 @@
     {
       "id": "bc026efffef47344",
       "nome": "FFF61C",
+      "addr": "RUA RUBÍ, 250",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-19 16:48:00",
@@ -2026,6 +2181,7 @@
     {
       "id": "bc026efffef47996",
       "nome": "FFF61D",
+      "addr": "Rua Sao Guido, 150, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:08:00",
@@ -2039,6 +2195,7 @@
     {
       "id": "bc026efffef4730d",
       "nome": "FFF621",
+      "addr": "Rua Autria, 320, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-01-14 16:46:00",
@@ -2052,6 +2209,7 @@
     {
       "id": "bc026efffef47995",
       "nome": "FFF65E",
+      "addr": "Rua luiz Lorenzatto, 360, Santa Rosa, RS, Brazil",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:09:00",
@@ -2065,6 +2223,7 @@
     {
       "id": "bc026efffef48744",
       "nome": "FFF69C",
+      "addr": "RUA PROTÁSIO NENE 846",
       "cidade": "UNISTALDA",
       "setor": null,
       "ultima_leitura": "2026-02-19 21:43:00",
@@ -2078,6 +2237,7 @@
     {
       "id": "60efabfffee11471",
       "nome": "FFF703",
+      "addr": "Avenida Simões Lopes Neto 220",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -2091,6 +2251,7 @@
     {
       "id": "60efabfffee11be2",
       "nome": "FFF75F",
+      "addr": "RUA IBISCO, 246",
       "cidade": "TRES DE MAIO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:07:00",
@@ -2104,6 +2265,7 @@
     {
       "id": "60efabfffef4b72f",
       "nome": "FFF7EB",
+      "addr": "AVENIDA_TIARAJU_3213",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -2117,6 +2279,7 @@
     {
       "id": "60efabfffef4b731",
       "nome": "FFF815",
+      "addr": "Tv. Lopes",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:57:00",
@@ -2130,6 +2293,7 @@
     {
       "id": "60efabfffef4b703",
       "nome": "FFF817",
+      "addr": "R. Erico Verissimo",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-21 05:27:00",
@@ -2143,6 +2307,7 @@
     {
       "id": "60efabfffef4bb9b",
       "nome": "FFF81A",
+      "addr": "Rua Osvaldo Aranha 607",
       "cidade": "ITAQUI",
       "setor": null,
       "ultima_leitura": "2026-02-24 07:10:00",
@@ -2156,6 +2321,7 @@
     {
       "id": "60efabfffef4bbc9",
       "nome": "FFF81B",
+      "addr": "Rua João Cassel 49, Entre-Ijuís - Rio Grande do Sul, 98855-000, Brasil",
       "cidade": "ENTRE IJUIS",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:10:00",
@@ -2169,6 +2335,7 @@
     {
       "id": "60efabfffef4bbe7",
       "nome": "FFF81C",
+      "addr": "RUA_SERGIPE_108",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 06:23:00",
@@ -2182,6 +2349,7 @@
     {
       "id": "60efabfffef4b6ff",
       "nome": "FFF81D",
+      "addr": "RUA_ABILIA_CARAVAGNO_MEDEIROS_285",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:06:00",
@@ -2195,6 +2363,7 @@
     {
       "id": "60efabfffef4b724",
       "nome": "FFF823",
+      "addr": "RUA BURICA 555 - HORIZONTINA",
       "cidade": "HORIZONTINA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:04:00",
@@ -2208,6 +2377,7 @@
     {
       "id": "60efabfffee12012",
       "nome": "FFF824",
+      "addr": "RUA HORIZONTINA",
       "cidade": "SANTA ROSA",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:00:00",
@@ -2221,6 +2391,7 @@
     {
       "id": "60efabfffef4b705",
       "nome": "FFF825",
+      "addr": "AVENIDA_IBICUI_1393",
       "cidade": "MANOEL VIANA",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:56:00",
@@ -2234,6 +2405,7 @@
     {
       "id": "60efabfffef4bbc0",
       "nome": "FFF82E",
+      "addr": "RUA ALCIDES FARIAS RIBEIRO, 1278, IZABEL, ALEGRETE",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:01:00",
@@ -2247,6 +2419,7 @@
     {
       "id": "60efabfffef4bbbe",
       "nome": "FFF839",
+      "addr": "RUA_ICARO_FERREIRA_DA_COSTA_35",
       "cidade": "ALEGRETE",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:12:00",
@@ -2260,6 +2433,7 @@
     {
       "id": "60efabfffef4bbd5",
       "nome": "FFF83C",
+      "addr": "Oswaldo Cruz 761",
       "cidade": "SANTO ANGELO",
       "setor": null,
       "ultima_leitura": "2026-02-26 07:37:00",
@@ -2273,6 +2447,7 @@
     {
       "id": "60efabfffee10c79",
       "nome": "FFF87D",
+      "addr": "RUA CABO PEDROSO 742",
       "cidade": "SAO BORJA",
       "setor": null,
       "ultima_leitura": "2026-02-16 23:39:00",
@@ -2286,6 +2461,7 @@
     {
       "id": "60efabfffee1104e",
       "nome": "FFF8C9",
+      "addr": "RUA_SILVEIRA_MARTINS_2331",
       "cidade": "SANTIAGO",
       "setor": null,
       "ultima_leitura": "2026-02-26 08:11:00",
